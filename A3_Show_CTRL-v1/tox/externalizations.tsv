@@ -1,0 +1,879 @@
+path	type	strategy	rel_file_path	timestamp	dirty	build	touch_build	node_x	node_y	node_color
+/externalizations	table	tsv	tox/externalizations.tsv	2026-09-21 05:09:09 UTC				-500	725	0.9000,0.3000,0.4000
+/T3D_1_12	base	tox	/Users/joliboardman/Documents/GitHub/2026/a3-laser-ctrl/A3_Show_CTRL-v1/../Downloads/T3D_1_12.tox	2026-09-21 05:17:54 UTC				-200	-200	0.4500,0.2400,0.2400
+/PJM_Scenes	container	tox	tox/PJM_Scenes.tox	2026-09-21 05:17:54 UTC				548	161	0.3250,0.8000,0.3000
+/JOLI_Scenes	container	tox	tox/JOLI_Scenes.tox	2026-09-21 05:17:54 UTC				548	486	0.3250,0.8000,0.3000
+/Test_Patterns	container	tox	tox/Test-Patterns.tox	2026-09-21 05:17:54 UTC				700	-175	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026	base	tox		2026-09-21 05:17:54 UTC				-500	900	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/tweener/callbackManager	base	tox	Release/callbackManager.tox	2026-09-21 05:17:54 UTC				100	225	1.0000,0.7000,0.1000
+/FunctionStore_tools_2026/ResetPLS1/callbackManager	base	tox	Release/callbackManager.tox	2026-09-21 05:17:54 UTC				1220	160	1.0000,0.7000,0.1000
+/FunctionStore_tools_2026/AutoCombine/kindergaertner_mymod/callbackManager	base	tox	Release/callbackManager.tox	2026-09-21 05:17:54 UTC				-330	135	1.0000,0.7000,0.1000
+/FunctionStore_tools_2026/OpTemplates/OPTemplates1	base	tox	/Users/joliboardman/Library/Application Support/Derivative/TouchDesigner099/Palette/FNStools_ext/OpTemplates/OPTemplates1.tox	2026-09-21 05:17:54 UTC				425	175	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/OpTemplates/kindergaertner_mymod/callbackManager	base	tox	Release/callbackManager.tox	2026-09-21 05:17:54 UTC				-555	10	1.0000,0.7000,0.1000
+/FunctionStore_tools_2026/OpTemplates/kindergaertner_mymod1/callbackManager	base	tox	Release/callbackManager.tox	2026-09-21 05:17:54 UTC				-330	135	1.0000,0.7000,0.1000
+/FunctionStore_tools_2026/AutoRes/kindergaertner_mymod/callbackManager	base	tox	tox/FunctionStore_tools_2026/AutoRes/kindergaertner_mymod/callbackManager.tox	2026-09-21 05:29:18 UTC				-330	135	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/Olib_Browser1/UI/searchbar/page/callbackManager	base	tox	Release/callbackManager.tox	2026-09-21 05:17:54 UTC				350	200	1.0000,0.7000,0.1000
+/FunctionStore_tools_2026/Olib_Browser1/engine/downloader/quitePlace/template	base	tox	asd	2026-09-21 05:17:54 UTC				-525	125	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/Olib_Browser1/engine/downloader/fileDownloader	base	tox	modules/release/fileDownloader.tox	2026-09-21 05:17:54 UTC				-150	225	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/FNS_Toolbar/ToolbarDef_default	table	table	/Users/joliboardman/Library/Application Support/Derivative/TouchDesigner099/Palette/FNStools_ext/tables/ToolbarDef.tsv	2026-09-21 05:18:05 UTC				-400	-125	1.0000,0.7000,0.1000
+/FunctionStore_tools_2026/FNS_HotkeyManager/table_gathered_hotkeys1	table	table	/Users/joliboardman/Library/Application Support/Derivative/TouchDesigner099/Palette/FNStools_ext/tables/Hotkeys.tsv	2026-09-21 05:18:05 UTC				-1025	-1100	1.0000,0.7000,0.1000
+/perform	window	tox	tox/perform.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-200	50	0.3250,0.8000,0.3000
+/T3D_1_12/set_last_node_type	text	py	tox/T3D_1_12/set_last_node_type.py	2026-09-21 05:18:05 UTC				60	430	0.4500,0.2400,0.2400
+/T3D_1_12/release_notes	text	py	tox/T3D_1_12/release_notes.py	2026-09-21 05:18:05 UTC				467	975	0.4500,0.2400,0.2400
+/T3D_1_12/package/set_version	text	py	tox/T3D_1_12/package/set_version.py	2026-09-21 05:18:05 UTC				-290	-720	0.4500,0.2400,0.2400
+/T3D_1_12/package/set_utils_ext	text	py	tox/T3D_1_12/package/set_utils_ext.py	2026-09-21 05:18:05 UTC				-290	-470	0.4500,0.2400,0.2400
+/T3D_1_12/package/set_tags	text	py	tox/T3D_1_12/package/set_tags.py	2026-09-21 05:18:05 UTC				-290	-220	0.4500,0.2400,0.2400
+/T3D_1_12/package/reset_parameters	text	py	tox/T3D_1_12/package/reset_parameters.py	2026-09-21 05:18:05 UTC				-290	-345	0.4500,0.2400,0.2400
+/T3D_1_12/package/remove_connectors	text	py	tox/T3D_1_12/package/remove_connectors.py	2026-09-21 05:18:05 UTC				-290	-95	0.4500,0.2400,0.2400
+/T3D_1_12/package/parexec1	parexec	py	tox/T3D_1_12/package/parexec1.py	2026-09-21 05:18:05 UTC				0	-75	0.4500,0.2400,0.2400
+/T3D_1_12/package/package	text	py	tox/T3D_1_12/package/package.py	2026-09-21 05:18:05 UTC				0	75	0.4500,0.2400,0.2400
+/T3D_1_12/package/delete_licenses	text	py	tox/T3D_1_12/package/delete_licenses.py	2026-09-21 05:18:05 UTC				-290	-595	0.4500,0.2400,0.2400
+/T3D_1_12/package/correct_names	text	py	tox/T3D_1_12/package/correct_names.py	2026-09-21 05:18:05 UTC				-290	30	0.4500,0.2400,0.2400
+/T3D_1_12/package/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/package/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:05 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/package/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/package/T3D_utils/bypass_execute.py	2026-09-21 05:18:05 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/package/T3D_utils/T3DExt	text	py	tox/T3D_1_12/package/T3D_utils/T3DExt.py	2026-09-21 05:18:05 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/package/T3D_utils	base	tox	tox/T3D_1_12/package/T3D_utils.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/package	base	tox	tox/T3D_1_12/package.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-230	-265	0.4500,0.2400,0.2400
+/T3D_1_12/execute1	execute	py	tox/T3D_1_12/execute1.py	2026-09-21 05:18:05 UTC				-240	330	0.4500,0.2400,0.2400
+/T3D_1_12/dragNDropCallback	text	py	tox/T3D_1_12/dragNDropCallback.py	2026-09-21 05:18:05 UTC				-215	-545	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_toggle/opexec1	opexec	py	tox/T3D_1_12/T3D_toggle/opexec1.py	2026-09-21 05:18:05 UTC				753	-625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_toggle/button/text1	text	tox	tox/T3D_1_12/T3D_toggle/button/text1.tox	2026-09-21 05:18:05 UTC		1	2025.33230	0	-75	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_toggle/button/parexec1	parexec	py	tox/T3D_1_12/T3D_toggle/button/parexec1.py	2026-09-21 05:18:05 UTC				11	-206	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_toggle/button/panelexec2	panelexec	py	tox/T3D_1_12/T3D_toggle/button/panelexec2.py	2026-09-21 05:18:05 UTC				162	-206	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_toggle/button	button	tox	tox/T3D_1_12/T3D_toggle/button.tox	2026-09-21 05:18:05 UTC		1	2025.33230	475	-650	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_toggle	container	tox	tox/T3D_1_12/T3D_toggle.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-230	-422	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_script_callbacks	text	py	tox/T3D_1_12/T3D_script_callbacks.py	2026-09-21 05:18:05 UTC				-90	430	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_par_exec	parexec	py	tox/T3D_1_12/T3D_par_exec.py	2026-09-21 05:18:05 UTC				-240	130	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_panel_execute	panelexec	py	tox/T3D_1_12/T3D_panel_execute.py	2026-09-21 05:18:05 UTC				-240	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/light_calculation/light_data/execute1	execute	py	tox/T3D_1_12/T3D_operators/volume/light_calculation/light_data/execute1.py	2026-09-21 05:18:05 UTC				-665	105	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/light_calculation/light_data	base	tox	tox/T3D_1_12/T3D_operators/volume/light_calculation/light_data.tox	2026-09-21 05:18:05 UTC		1	2025.33230	270	335	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/light_calculation/glsl1_compute	text	glsl	tox/T3D_1_12/T3D_operators/volume/light_calculation/glsl1_compute.glsl	2026-09-21 05:18:05 UTC				45	760	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/light_calculation/execute1	execute	py	tox/T3D_1_12/T3D_operators/volume/light_calculation/execute1.py	2026-09-21 05:18:05 UTC				610	1130	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/light_calculation/compute_shader1	text	glsl	tox/T3D_1_12/T3D_operators/volume/light_calculation/compute_shader1.glsl	2026-09-21 05:18:05 UTC				610	755	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/light_calculation/blur1/glsl5_compute	text	glsl	tox/T3D_1_12/T3D_operators/volume/light_calculation/blur1/glsl5_compute.glsl	2026-09-21 05:18:05 UTC				-1075	-50	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/light_calculation/blur1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/volume/light_calculation/blur1/glsl1_compute1.glsl	2026-09-21 05:18:05 UTC				-1415	-45	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/light_calculation/blur1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/volume/light_calculation/blur1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:05 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/light_calculation/blur1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/volume/light_calculation/blur1/T3D_utils/bypass_execute.py	2026-09-21 05:18:05 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/light_calculation/blur1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/volume/light_calculation/blur1/T3D_utils/T3DExt.py	2026-09-21 05:18:05 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/light_calculation/blur1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/volume/light_calculation/blur1/T3D_utils.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/light_calculation/blur1	base	tox	tox/T3D_1_12/T3D_operators/volume/light_calculation/blur1.tox	2026-09-21 05:18:05 UTC		1	2025.33230	270	860	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/light_calculation	base	tox	tox/T3D_1_12/T3D_operators/volume/light_calculation.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-6	409	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/glsl1_vertex	text	glsl	tox/T3D_1_12/T3D_operators/volume/glsl1_vertex.glsl	2026-09-21 05:18:05 UTC				334	102	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/glsl1_pixel	text	glsl	tox/T3D_1_12/T3D_operators/volume/glsl1_pixel.glsl	2026-09-21 05:18:05 UTC				513	102	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/geo1	geo	tox	tox/T3D_1_12/T3D_operators/volume/geo1.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-5	210	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/distinct_render_pass/glsl2_pixel	text	glsl	tox/T3D_1_12/T3D_operators/volume/distinct_render_pass/glsl2_pixel.glsl	2026-09-21 05:18:05 UTC				546	-318	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/distinct_render_pass/distinct_render_pass	geo	tox	tox/T3D_1_12/T3D_operators/volume/distinct_render_pass/distinct_render_pass.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-5	-265	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/distinct_render_pass	base	tox	tox/T3D_1_12/T3D_operators/volume/distinct_render_pass.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-5	-65	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/volume/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:05 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/volume/T3D_utils/bypass_execute.py	2026-09-21 05:18:05 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/volume/T3D_utils/T3DExt.py	2026-09-21 05:18:05 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/volume/T3D_utils.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/volume	geo	tox	tox/T3D_1_12/T3D_operators/volume.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-925	4175	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/reset_logic/table1	table	tsv	tox/T3D_1_12/T3D_operators/voltrace/reset_logic/table1.tsv	2026-09-21 05:18:05 UTC				-250	375	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/reset_logic/reset	text	py	tox/T3D_1_12/T3D_operators/voltrace/reset_logic/reset.py	2026-09-21 05:18:05 UTC				125	525	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/reset_logic/parexec1	parexec	py	tox/T3D_1_12/T3D_operators/voltrace/reset_logic/parexec1.py	2026-09-21 05:18:05 UTC				-75	525	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/reset_logic/opexec1	opexec	py	tox/T3D_1_12/T3D_operators/voltrace/reset_logic/opexec1.py	2026-09-21 05:18:05 UTC				-75	250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/reset_logic/execute1	execute	py	tox/T3D_1_12/T3D_operators/voltrace/reset_logic/execute1.py	2026-09-21 05:18:05 UTC				-75	125	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/reset_logic/datexec2	datexec	py	tox/T3D_1_12/T3D_operators/voltrace/reset_logic/datexec2.py	2026-09-21 05:18:05 UTC				125	375	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/reset_logic/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/voltrace/reset_logic/chopexec1.py	2026-09-21 05:18:05 UTC				125	650	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/reset_logic	base	tox	tox/T3D_1_12/T3D_operators/voltrace/reset_logic.tox	2026-09-21 05:18:05 UTC		1	2025.33230	100	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/parexec1	parexec	py	tox/T3D_1_12/T3D_operators/voltrace/parexec1.py	2026-09-21 05:18:05 UTC				-290	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/light_data	base	tox	tox/T3D_1_12/T3D_operators/voltrace/light_data.tox	2026-09-21 05:18:05 UTC		1	2025.33230	100	-325	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/glslmulti6_compute	text	glsl	tox/T3D_1_12/T3D_operators/voltrace/glslmulti6_compute.glsl	2026-09-21 05:18:05 UTC				-275	-125	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/glsl1_vertex	text	glsl	tox/T3D_1_12/T3D_operators/voltrace/glsl1_vertex.glsl	2026-09-21 05:18:05 UTC				1150	-145	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/glsl1_pixel	text	glsl	tox/T3D_1_12/T3D_operators/voltrace/glsl1_pixel.glsl	2026-09-21 05:18:05 UTC				1310	-145	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/glsl1_compute	text	glsl	tox/T3D_1_12/T3D_operators/voltrace/glsl1_compute.glsl	2026-09-21 05:18:05 UTC				100	-125	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/execute1	execute	py	tox/T3D_1_12/T3D_operators/voltrace/execute1.py	2026-09-21 05:18:05 UTC				-290	155	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/voltrace/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:05 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/voltrace/T3D_utils/bypass_execute.py	2026-09-21 05:18:05 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/voltrace/T3D_utils/T3DExt.py	2026-09-21 05:18:05 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/voltrace/T3D_utils.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/voltrace	geo	tox	tox/T3D_1_12/T3D_operators/voltrace.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-925	4000	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/transform	null	tox	tox/T3D_1_12/T3D_operators/tube/transform.tox	2026-09-21 05:18:05 UTC		1	2025.33230	375	675	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/tube/glsl1_compute2.glsl	2026-09-21 05:18:05 UTC				235	105	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/tube/glsl1_compute1.glsl	2026-09-21 05:18:05 UTC				375	407	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/composite1/transform	null	tox	tox/T3D_1_12/T3D_operators/tube/composite1/transform.tox	2026-09-21 05:18:05 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/composite1/replicator2_callbacks	text	py	tox/T3D_1_12/T3D_operators/tube/composite1/replicator2_callbacks.py	2026-09-21 05:18:05 UTC				-825	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/composite1/replicator2	replicator	tox	tox/T3D_1_12/T3D_operators/tube/composite1/replicator2.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-825	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/composite1/replicator1_callbacks	text	py	tox/T3D_1_12/T3D_operators/tube/composite1/replicator1_callbacks.py	2026-09-21 05:18:05 UTC				-1025	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/composite1/replicator1	replicator	tox	tox/T3D_1_12/T3D_operators/tube/composite1/replicator1.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-1025	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/composite1/prefit	text	glsl	tox/T3D_1_12/T3D_operators/tube/composite1/prefit.glsl	2026-09-21 05:18:05 UTC				-115	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/composite1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/tube/composite1/glsl1_compute2.glsl	2026-09-21 05:18:05 UTC				-1240	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/composite1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/tube/composite1/glsl1_compute1.glsl	2026-09-21 05:18:05 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/composite1/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/tube/composite1/chopexec1.py	2026-09-21 05:18:05 UTC				-200	925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/composite1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/tube/composite1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:05 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/composite1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/tube/composite1/T3D_utils/bypass_execute.py	2026-09-21 05:18:05 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/composite1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/tube/composite1/T3D_utils/T3DExt.py	2026-09-21 05:18:05 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/composite1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/tube/composite1/T3D_utils.tox	2026-09-21 05:18:05 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/composite1	base	tox	tox/T3D_1_12/T3D_operators/tube/composite1.tox	2026-09-21 05:18:06 UTC		1	2025.33230	634	385	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/tube/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/tube/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/tube/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/tube/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/tube	base	tox	tox/T3D_1_12/T3D_operators/tube.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-1725	4925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/transform/transform	null	tox	tox/T3D_1_12/T3D_operators/transform/transform.tox	2026-09-21 05:18:06 UTC		1	2025.33230	75	500	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/transform/glsl1_compute3	text	glsl	tox/T3D_1_12/T3D_operators/transform/glsl1_compute3.glsl	2026-09-21 05:18:06 UTC				-190	80	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/transform/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/transform/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				-190	205	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/transform/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/transform/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/transform/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/transform/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/transform/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/transform/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/transform/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/transform/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/transform/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/transform/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/transform	base	tox	tox/T3D_1_12/T3D_operators/transform.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-1675	3600	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/transform	null	tox	tox/T3D_1_12/T3D_operators/torus/transform.tox	2026-09-21 05:18:06 UTC		1	2025.33230	250	400	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/torus/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				135	-145	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/torus/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				250	157	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/composite1/transform	null	tox	tox/T3D_1_12/T3D_operators/torus/composite1/transform.tox	2026-09-21 05:18:06 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/composite1/replicator2_callbacks	text	py	tox/T3D_1_12/T3D_operators/torus/composite1/replicator2_callbacks.py	2026-09-21 05:18:06 UTC				-825	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/composite1/replicator2	replicator	tox	tox/T3D_1_12/T3D_operators/torus/composite1/replicator2.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-825	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/composite1/replicator1_callbacks	text	py	tox/T3D_1_12/T3D_operators/torus/composite1/replicator1_callbacks.py	2026-09-21 05:18:06 UTC				-1025	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/composite1/replicator1	replicator	tox	tox/T3D_1_12/T3D_operators/torus/composite1/replicator1.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-1025	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/composite1/prefit	text	glsl	tox/T3D_1_12/T3D_operators/torus/composite1/prefit.glsl	2026-09-21 05:18:06 UTC				-115	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/composite1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/torus/composite1/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				-1240	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/composite1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/torus/composite1/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/composite1/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/torus/composite1/chopexec1.py	2026-09-21 05:18:06 UTC				-200	925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/composite1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/torus/composite1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/composite1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/torus/composite1/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/composite1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/torus/composite1/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/composite1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/torus/composite1/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/composite1	base	tox	tox/T3D_1_12/T3D_operators/torus/composite1.tox	2026-09-21 05:18:06 UTC		1	2025.33230	494	133	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/torus/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/torus/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/torus/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/torus/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/torus	base	tox	tox/T3D_1_12/T3D_operators/torus.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-1725	4775	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/top_to/transform	null	tox	tox/T3D_1_12/T3D_operators/top_to/transform.tox	2026-09-21 05:18:06 UTC		1	2025.33230	25	450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/top_to/prefit	text	glsl	tox/T3D_1_12/T3D_operators/top_to/prefit.glsl	2026-09-21 05:18:06 UTC				-140	205	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/top_to/parexec1	parexec	py	tox/T3D_1_12/T3D_operators/top_to/parexec1.py	2026-09-21 05:18:06 UTC				25	75	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/top_to/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/top_to/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				25	200	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/top_to/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/top_to/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/top_to/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/top_to/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/top_to/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/top_to/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/top_to/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/top_to/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/top_to	base	tox	tox/T3D_1_12/T3D_operators/top_to.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-650	4350	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/to_top/transform	null	tox	tox/T3D_1_12/T3D_operators/to_top/transform.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-105	10	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/to_top/glsl6_compute	text	glsl	tox/T3D_1_12/T3D_operators/to_top/glsl6_compute.glsl	2026-09-21 05:18:06 UTC				-90	-395	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/to_top/glsl5_compute	text	glsl	tox/T3D_1_12/T3D_operators/to_top/glsl5_compute.glsl	2026-09-21 05:18:06 UTC				-90	-245	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/to_top/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/to_top/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				-240	-270	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/to_top/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/to_top/chopexec1.py	2026-09-21 05:18:06 UTC				-165	155	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/to_top/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/to_top/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/to_top/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/to_top/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/to_top/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/to_top/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/to_top/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/to_top/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/to_top	base	tox	tox/T3D_1_12/T3D_operators/to_top.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-205	4335	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/threshold/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/threshold/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				-215	205	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/threshold/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/threshold/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/threshold/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/threshold/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/threshold/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/threshold/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/threshold/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/threshold/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/threshold/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/threshold/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/threshold	base	tox	tox/T3D_1_12/T3D_operators/threshold.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-1681	3758	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/vertex	text	glsl	tox/T3D_1_12/T3D_operators/surface/vertex.glsl	2026-09-21 05:18:06 UTC				360	-95	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/reorder1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/surface/reorder1/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				-290	355	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/reorder1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/surface/reorder1/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/reorder1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/surface/reorder1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/reorder1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/surface/reorder1/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/reorder1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/surface/reorder1/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/reorder1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/surface/reorder1/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-175	-75	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/reorder1	base	tox	tox/T3D_1_12/T3D_operators/surface/reorder1.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-105	10	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/pixel	text	glsl	tox/T3D_1_12/T3D_operators/surface/pixel.glsl	2026-09-21 05:18:06 UTC				510	-95	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/parexec1	parexec	py	tox/T3D_1_12/T3D_operators/surface/parexec1.py	2026-09-21 05:18:06 UTC				-525	-850	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/glsl1_compute3	text	glsl	tox/T3D_1_12/T3D_operators/surface/glsl1_compute3.glsl	2026-09-21 05:18:06 UTC				-275	-850	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/surface/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				-275	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/surface/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				-275	-100	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/box	geo	tox	tox/T3D_1_12/T3D_operators/surface/box.tox	2026-09-21 05:18:06 UTC		1	2025.33230	550	-700	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/backdrop/glsl2_vertex	text	glsl	tox/T3D_1_12/T3D_operators/surface/backdrop/glsl2_vertex.glsl	2026-09-21 05:18:06 UTC				35	-170	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/backdrop/glsl2_pixel	text	glsl	tox/T3D_1_12/T3D_operators/surface/backdrop/glsl2_pixel.glsl	2026-09-21 05:18:06 UTC				185	-170	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/backdrop/glsl1_vertex	text	glsl	tox/T3D_1_12/T3D_operators/surface/backdrop/glsl1_vertex.glsl	2026-09-21 05:18:06 UTC				35	85	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/backdrop/glsl1_pixel	text	glsl	tox/T3D_1_12/T3D_operators/surface/backdrop/glsl1_pixel.glsl	2026-09-21 05:18:06 UTC				195	85	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/backdrop	geo	tox	tox/T3D_1_12/T3D_operators/surface/backdrop.tox	2026-09-21 05:18:06 UTC		1	2025.33230	550	-850	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/surface/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/surface/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/surface/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/surface/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/surface	geo	tox	tox/T3D_1_12/T3D_operators/surface.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-925	4350	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/subtract/transform	null	tox	tox/T3D_1_12/T3D_operators/subtract/transform.tox	2026-09-21 05:18:06 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/subtract/prefit	text	glsl	tox/T3D_1_12/T3D_operators/subtract/prefit.glsl	2026-09-21 05:18:06 UTC				-90	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/subtract/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/subtract/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				-440	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/subtract/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/subtract/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/subtract/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/subtract/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/subtract/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/subtract/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/subtract/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/subtract/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/subtract/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/subtract/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/subtract	base	tox	tox/T3D_1_12/T3D_operators/subtract.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-1950	4200	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sprinkle/transform	null	tox	tox/T3D_1_12/T3D_operators/sprinkle/transform.tox	2026-09-21 05:18:06 UTC		1	2025.33230	20	10	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sprinkle/glsl5_compute	text	glsl	tox/T3D_1_12/T3D_operators/sprinkle/glsl5_compute.glsl	2026-09-21 05:18:06 UTC				35	-252	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sprinkle/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/sprinkle/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				-115	-245	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sprinkle/glsl1_compute	text	glsl	tox/T3D_1_12/T3D_operators/sprinkle/glsl1_compute.glsl	2026-09-21 05:18:06 UTC				40	-825	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sprinkle/TransformExt	text	py	tox/T3D_1_12/T3D_operators/sprinkle/TransformExt.py	2026-09-21 05:18:06 UTC				-125	50	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sprinkle/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/sprinkle/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sprinkle/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/sprinkle/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sprinkle/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/sprinkle/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sprinkle/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/sprinkle/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sprinkle	base	tox	tox/T3D_1_12/T3D_operators/sprinkle.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-200	3975	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/transform	null	tox	tox/T3D_1_12/T3D_operators/sphere/transform.tox	2026-09-21 05:18:06 UTC		1	2025.33230	325	500	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/sphere/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				210	105	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/sphere/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				325	250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/composite1/transform	null	tox	tox/T3D_1_12/T3D_operators/sphere/composite1/transform.tox	2026-09-21 05:18:06 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/composite1/replicator2_callbacks	text	py	tox/T3D_1_12/T3D_operators/sphere/composite1/replicator2_callbacks.py	2026-09-21 05:18:06 UTC				-825	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/composite1/replicator2	replicator	tox	tox/T3D_1_12/T3D_operators/sphere/composite1/replicator2.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-825	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/composite1/replicator1_callbacks	text	py	tox/T3D_1_12/T3D_operators/sphere/composite1/replicator1_callbacks.py	2026-09-21 05:18:06 UTC				-1025	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/composite1/replicator1	replicator	tox	tox/T3D_1_12/T3D_operators/sphere/composite1/replicator1.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-1025	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/composite1/prefit	text	glsl	tox/T3D_1_12/T3D_operators/sphere/composite1/prefit.glsl	2026-09-21 05:18:06 UTC				-115	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/composite1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/sphere/composite1/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				-1240	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/composite1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/sphere/composite1/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/composite1/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/sphere/composite1/chopexec1.py	2026-09-21 05:18:06 UTC				-200	925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/composite1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/sphere/composite1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/composite1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/sphere/composite1/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/composite1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/sphere/composite1/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/composite1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/sphere/composite1/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/composite1	base	tox	tox/T3D_1_12/T3D_operators/sphere/composite1.tox	2026-09-21 05:18:06 UTC		1	2025.33230	584	235	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/sphere/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/sphere/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/sphere/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/sphere/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sphere	base	tox	tox/T3D_1_12/T3D_operators/sphere.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-1725	5225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/slope/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/slope/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				-90	205	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/slope/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/slope/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				60	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/slope/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/slope/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/slope/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/slope/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/slope/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/slope/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/slope/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/slope/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/slope	base	tox	tox/T3D_1_12/T3D_operators/slope.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-1680	4060	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/transform	null	tox	tox/T3D_1_12/T3D_operators/sdf/transform.tox	2026-09-21 05:18:06 UTC		1	2025.33230	20	560	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/parexec1	parexec	py	tox/T3D_1_12/T3D_operators/sdf/parexec1.py	2026-09-21 05:18:06 UTC				151	-180	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/sdf/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				-40	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/sdf/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				35	273	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/composite1/transform	null	tox	tox/T3D_1_12/T3D_operators/sdf/composite1/transform.tox	2026-09-21 05:18:06 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/composite1/replicator2_callbacks	text	py	tox/T3D_1_12/T3D_operators/sdf/composite1/replicator2_callbacks.py	2026-09-21 05:18:06 UTC				-825	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/composite1/replicator2	replicator	tox	tox/T3D_1_12/T3D_operators/sdf/composite1/replicator2.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-825	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/composite1/replicator1_callbacks	text	py	tox/T3D_1_12/T3D_operators/sdf/composite1/replicator1_callbacks.py	2026-09-21 05:18:06 UTC				-1025	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/composite1/replicator1	replicator	tox	tox/T3D_1_12/T3D_operators/sdf/composite1/replicator1.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-1025	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/composite1/prefit	text	glsl	tox/T3D_1_12/T3D_operators/sdf/composite1/prefit.glsl	2026-09-21 05:18:06 UTC				-115	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/composite1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/sdf/composite1/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				-1240	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/composite1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/sdf/composite1/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/composite1/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/sdf/composite1/chopexec1.py	2026-09-21 05:18:06 UTC				-200	925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/composite1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/sdf/composite1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/composite1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/sdf/composite1/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/composite1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/sdf/composite1/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/composite1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/sdf/composite1/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/composite1	base	tox	tox/T3D_1_12/T3D_operators/sdf/composite1.tox	2026-09-21 05:18:06 UTC		1	2025.33230	219	308	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/sdf/chopexec1.py	2026-09-21 05:18:06 UTC				151	-80	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/sdf/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/sdf/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/sdf/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/sdf/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/sdf	base	tox	tox/T3D_1_12/T3D_operators/sdf.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-1475	5225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/reorder/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/reorder/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				-290	355	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/reorder/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/reorder/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/reorder/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/reorder/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/reorder/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/reorder/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/reorder/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/reorder/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/reorder/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/reorder/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/reorder	base	tox	tox/T3D_1_12/T3D_operators/reorder.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-1431	4208	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/remap/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/remap/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				-440	80	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/remap/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/remap/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				35	80	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/remap/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/remap/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/remap/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/remap/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/remap/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/remap/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/remap/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/remap/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/remap	base	tox	tox/T3D_1_12/T3D_operators/remap.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-1950	3100	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/windows1	text	glsl	tox/T3D_1_12/T3D_operators/point_cloud/windows1.glsl	2026-09-21 05:18:06 UTC				-275	-775	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/windows	text	glsl	tox/T3D_1_12/T3D_operators/point_cloud/windows.glsl	2026-09-21 05:18:06 UTC				-209	-102	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/show_bounds/geo3	geo	tox	tox/T3D_1_12/T3D_operators/point_cloud/show_bounds/geo3.tox	2026-09-21 05:18:06 UTC		1	2025.33230	1525	-325	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/show_bounds/geo2	geo	tox	tox/T3D_1_12/T3D_operators/point_cloud/show_bounds/geo2.tox	2026-09-21 05:18:06 UTC		1	2025.33230	1520	-790	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/show_bounds/geo1	geo	tox	tox/T3D_1_12/T3D_operators/point_cloud/show_bounds/geo1.tox	2026-09-21 05:18:06 UTC		1	2025.33230	1520	-490	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/show_bounds/axes/geo5/geo1	geo	tox	tox/T3D_1_12/T3D_operators/point_cloud/show_bounds/axes/geo5/geo1.tox	2026-09-21 05:18:06 UTC		1	2025.33230	270	-40	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/show_bounds/axes/geo5	geo	tox	tox/T3D_1_12/T3D_operators/point_cloud/show_bounds/axes/geo5.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-5	-90	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/show_bounds/axes/geo4/geo1	geo	tox	tox/T3D_1_12/T3D_operators/point_cloud/show_bounds/axes/geo4/geo1.tox	2026-09-21 05:18:06 UTC		1	2025.33230	270	-40	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/show_bounds/axes/geo4	geo	tox	tox/T3D_1_12/T3D_operators/point_cloud/show_bounds/axes/geo4.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-5	-265	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/show_bounds/axes/geo3/geo1	geo	tox	tox/T3D_1_12/T3D_operators/point_cloud/show_bounds/axes/geo3/geo1.tox	2026-09-21 05:18:06 UTC		1	2025.33230	270	-40	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/show_bounds/axes/geo3	geo	tox	tox/T3D_1_12/T3D_operators/point_cloud/show_bounds/axes/geo3.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-5	60	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/show_bounds/axes	geo	tox	tox/T3D_1_12/T3D_operators/point_cloud/show_bounds/axes.tox	2026-09-21 05:18:06 UTC		1	2025.33230	1450	-1275	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/show_bounds	container	tox	tox/T3D_1_12/T3D_operators/point_cloud/show_bounds.tox	2026-09-21 05:18:06 UTC		1	2025.33230	350	275	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/mac1	text	glsl	tox/T3D_1_12/T3D_operators/point_cloud/mac1.glsl	2026-09-21 05:18:06 UTC				-275	-900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/mac	text	glsl	tox/T3D_1_12/T3D_operators/point_cloud/mac.glsl	2026-09-21 05:18:06 UTC				-209	-227	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/glsl2_compute	text	glsl	tox/T3D_1_12/T3D_operators/point_cloud/glsl2_compute.glsl	2026-09-21 05:18:06 UTC				75	-975	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/glsl1_compute3	text	glsl	tox/T3D_1_12/T3D_operators/point_cloud/glsl1_compute3.glsl	2026-09-21 05:18:06 UTC				700	-550	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/point_cloud/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				550	-850	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/point_cloud/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				1125	-268	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/glsl1_compute	text	glsl	tox/T3D_1_12/T3D_operators/point_cloud/glsl1_compute.glsl	2026-09-21 05:18:06 UTC				144	-343	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/get_os	execute	py	tox/T3D_1_12/T3D_operators/point_cloud/get_os.py	2026-09-21 05:18:06 UTC				-525	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/calculate_bounds/parexec1	parexec	py	tox/T3D_1_12/T3D_operators/point_cloud/calculate_bounds/parexec1.py	2026-09-21 05:18:06 UTC				-1275	675	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/calculate_bounds	base	tox	tox/T3D_1_12/T3D_operators/point_cloud/calculate_bounds.tox	2026-09-21 05:18:06 UTC		1	2025.33230	95	285	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/add1/transform	null	tox	tox/T3D_1_12/T3D_operators/point_cloud/add1/transform.tox	2026-09-21 05:18:06 UTC		1	2025.33230	564	113	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/add1/prefit	text	glsl	tox/T3D_1_12/T3D_operators/point_cloud/add1/prefit.glsl	2026-09-21 05:18:06 UTC				385	-245	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/add1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/point_cloud/add1/glsl1_compute2.glsl	2026-09-21 05:18:06 UTC				-65	-220	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/add1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/point_cloud/add1/glsl1_compute1.glsl	2026-09-21 05:18:06 UTC				550	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/add1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/point_cloud/add1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/add1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/point_cloud/add1/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/add1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/point_cloud/add1/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/add1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/point_cloud/add1/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/add1	base	tox	tox/T3D_1_12/T3D_operators/point_cloud/add1.tox	2026-09-21 05:18:06 UTC		1	2025.33230	725	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/TransformExt	text	py	tox/T3D_1_12/T3D_operators/point_cloud/TransformExt.py	2026-09-21 05:18:06 UTC				-525	-150	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/point_cloud/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:06 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/point_cloud/T3D_utils/bypass_execute.py	2026-09-21 05:18:06 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/point_cloud/T3D_utils/T3DExt.py	2026-09-21 05:18:06 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/point_cloud/T3D_utils.tox	2026-09-21 05:18:06 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/point_cloud	base	tox	tox/T3D_1_12/T3D_operators/point_cloud.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-1150	4175	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/noise/glsl1_compute3	text	glsl	tox/T3D_1_12/T3D_operators/noise/glsl1_compute3.glsl	2026-09-21 05:18:07 UTC				800	75	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/noise/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/noise/glsl1_compute2.glsl	2026-09-21 05:18:07 UTC				25	100	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/noise/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/noise/glsl1_compute1.glsl	2026-09-21 05:18:07 UTC				-115	30	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/noise/execute1	execute	py	tox/T3D_1_12/T3D_operators/noise/execute1.py	2026-09-21 05:18:07 UTC				350	475	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/noise/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/noise/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:07 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/noise/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/noise/T3D_utils/bypass_execute.py	2026-09-21 05:18:07 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/noise/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/noise/T3D_utils/T3DExt.py	2026-09-21 05:18:07 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/noise/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/noise/T3D_utils.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/noise	base	tox	tox/T3D_1_12/T3D_operators/noise.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-1250	5225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/multiply/transform	null	tox	tox/T3D_1_12/T3D_operators/multiply/transform.tox	2026-09-21 05:18:07 UTC		1	2025.33230	64	413	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/multiply/prefit	text	glsl	tox/T3D_1_12/T3D_operators/multiply/prefit.glsl	2026-09-21 05:18:07 UTC				-115	80	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/multiply/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/multiply/glsl1_compute2.glsl	2026-09-21 05:18:07 UTC				-440	80	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/multiply/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/multiply/glsl1_compute1.glsl	2026-09-21 05:18:07 UTC				50	75	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/multiply/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/multiply/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:07 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/multiply/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/multiply/T3D_utils/bypass_execute.py	2026-09-21 05:18:07 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/multiply/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/multiply/T3D_utils/T3DExt.py	2026-09-21 05:18:07 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/multiply/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/multiply/T3D_utils.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/multiply	base	tox	tox/T3D_1_12/T3D_operators/multiply.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-1950	4050	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/transform	null	tox	tox/T3D_1_12/T3D_operators/metaball/transform.tox	2026-09-21 05:18:07 UTC		1	2025.33230	20	560	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/glsl1_compute4	text	glsl	tox/T3D_1_12/T3D_operators/metaball/glsl1_compute4.glsl	2026-09-21 05:18:07 UTC				-375	250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/glsl1_compute3	text	glsl	tox/T3D_1_12/T3D_operators/metaball/glsl1_compute3.glsl	2026-09-21 05:18:07 UTC				-375	125	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/metaball/glsl1_compute2.glsl	2026-09-21 05:18:07 UTC				-40	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/composite1/transform	null	tox	tox/T3D_1_12/T3D_operators/metaball/composite1/transform.tox	2026-09-21 05:18:07 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/composite1/replicator2_callbacks	text	py	tox/T3D_1_12/T3D_operators/metaball/composite1/replicator2_callbacks.py	2026-09-21 05:18:07 UTC				-825	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/composite1/replicator2	replicator	tox	tox/T3D_1_12/T3D_operators/metaball/composite1/replicator2.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-825	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/composite1/replicator1_callbacks	text	py	tox/T3D_1_12/T3D_operators/metaball/composite1/replicator1_callbacks.py	2026-09-21 05:18:07 UTC				-1025	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/composite1/replicator1	replicator	tox	tox/T3D_1_12/T3D_operators/metaball/composite1/replicator1.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-1025	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/composite1/prefit	text	glsl	tox/T3D_1_12/T3D_operators/metaball/composite1/prefit.glsl	2026-09-21 05:18:07 UTC				-115	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/composite1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/metaball/composite1/glsl1_compute2.glsl	2026-09-21 05:18:07 UTC				-1240	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/composite1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/metaball/composite1/glsl1_compute1.glsl	2026-09-21 05:18:07 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/composite1/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/metaball/composite1/chopexec1.py	2026-09-21 05:18:07 UTC				-200	925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/composite1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/metaball/composite1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:07 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/composite1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/metaball/composite1/T3D_utils/bypass_execute.py	2026-09-21 05:18:07 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/composite1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/metaball/composite1/T3D_utils/T3DExt.py	2026-09-21 05:18:07 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/composite1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/metaball/composite1/T3D_utils.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/composite1	base	tox	tox/T3D_1_12/T3D_operators/metaball/composite1.tox	2026-09-21 05:18:07 UTC		1	2025.33230	225	300	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/TransformExt	text	py	tox/T3D_1_12/T3D_operators/metaball/TransformExt.py	2026-09-21 05:18:07 UTC				-375	-50	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/metaball/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:07 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/metaball/T3D_utils/bypass_execute.py	2026-09-21 05:18:07 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/metaball/T3D_utils/T3DExt.py	2026-09-21 05:18:07 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/metaball/T3D_utils.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/metaball	base	tox	tox/T3D_1_12/T3D_operators/metaball.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-1475	4925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/matte/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/matte/glsl1_compute2.glsl	2026-09-21 05:18:07 UTC				-440	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/matte/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/matte/glsl1_compute1.glsl	2026-09-21 05:18:07 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/matte/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/matte/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:07 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/matte/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/matte/T3D_utils/bypass_execute.py	2026-09-21 05:18:07 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/matte/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/matte/T3D_utils/T3DExt.py	2026-09-21 05:18:07 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/matte/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/matte/T3D_utils.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/matte	base	tox	tox/T3D_1_12/T3D_operators/matte.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-1431	4358	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/math/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/math/glsl1_compute2.glsl	2026-09-21 05:18:07 UTC				-190	205	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/math/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/math/glsl1_compute1.glsl	2026-09-21 05:18:07 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/math/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/math/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:07 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/math/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/math/T3D_utils/bypass_execute.py	2026-09-21 05:18:07 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/math/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/math/T3D_utils/T3DExt.py	2026-09-21 05:18:07 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/math/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/math/T3D_utils.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/math	base	tox	tox/T3D_1_12/T3D_operators/math.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-1681	4358	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/top_to1/transform	null	tox	tox/T3D_1_12/T3D_operators/lookup/top_to1/transform.tox	2026-09-21 05:18:07 UTC		1	2025.33230	50	450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/top_to1/prefit	text	glsl	tox/T3D_1_12/T3D_operators/lookup/top_to1/prefit.glsl	2026-09-21 05:18:07 UTC				-140	205	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/top_to1/parexec1	parexec	py	tox/T3D_1_12/T3D_operators/lookup/top_to1/parexec1.py	2026-09-21 05:18:07 UTC				25	75	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/top_to1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/lookup/top_to1/glsl1_compute1.glsl	2026-09-21 05:18:07 UTC				25	200	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/top_to1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/lookup/top_to1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:07 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/top_to1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/lookup/top_to1/T3D_utils/bypass_execute.py	2026-09-21 05:18:07 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/top_to1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/lookup/top_to1/T3D_utils/T3DExt.py	2026-09-21 05:18:07 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/top_to1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/lookup/top_to1/T3D_utils.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/top_to1	base	tox	tox/T3D_1_12/T3D_operators/lookup/top_to1.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-380	135	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/lookup/glsl1_compute2.glsl	2026-09-21 05:18:07 UTC				-600	182	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/lookup/glsl1_compute1.glsl	2026-09-21 05:18:07 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/lookup/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:07 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/lookup/T3D_utils/bypass_execute.py	2026-09-21 05:18:07 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/lookup/T3D_utils/T3DExt.py	2026-09-21 05:18:07 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/lookup/T3D_utils.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/lookup	base	tox	tox/T3D_1_12/T3D_operators/lookup.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-1425	3900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/limit/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/limit/glsl1_compute2.glsl	2026-09-21 05:18:07 UTC				-190	205	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/limit/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/limit/glsl1_compute1.glsl	2026-09-21 05:18:07 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/limit/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/limit/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:07 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/limit/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/limit/T3D_utils/bypass_execute.py	2026-09-21 05:18:07 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/limit/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/limit/T3D_utils/T3DExt.py	2026-09-21 05:18:07 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/limit/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/limit/T3D_utils.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/limit	base	tox	tox/T3D_1_12/T3D_operators/limit.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-1681	4208	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/show_bounds/light1	light	tox	tox/T3D_1_12/T3D_operators/geo_to/show_bounds/light1.tox	2026-09-21 05:18:07 UTC		1	2025.33230	2045	-590	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/show_bounds/bounds	geo	tox	tox/T3D_1_12/T3D_operators/geo_to/show_bounds/bounds.tox	2026-09-21 05:18:07 UTC		1	2025.33230	1520	-790	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/show_bounds/axes/geo5/geo1	geo	tox	tox/T3D_1_12/T3D_operators/geo_to/show_bounds/axes/geo5/geo1.tox	2026-09-21 05:18:07 UTC		1	2025.33230	270	-40	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/show_bounds/axes/geo5	geo	tox	tox/T3D_1_12/T3D_operators/geo_to/show_bounds/axes/geo5.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-5	-90	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/show_bounds/axes/geo4/geo1	geo	tox	tox/T3D_1_12/T3D_operators/geo_to/show_bounds/axes/geo4/geo1.tox	2026-09-21 05:18:07 UTC		1	2025.33230	270	-40	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/show_bounds/axes/geo4	geo	tox	tox/T3D_1_12/T3D_operators/geo_to/show_bounds/axes/geo4.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-5	-265	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/show_bounds/axes/geo3/geo1	geo	tox	tox/T3D_1_12/T3D_operators/geo_to/show_bounds/axes/geo3/geo1.tox	2026-09-21 05:18:07 UTC		1	2025.33230	270	-40	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/show_bounds/axes/geo3	geo	tox	tox/T3D_1_12/T3D_operators/geo_to/show_bounds/axes/geo3.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-5	60	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/show_bounds/axes	geo	tox	tox/T3D_1_12/T3D_operators/geo_to/show_bounds/axes.tox	2026-09-21 05:18:07 UTC		1	2025.33230	1520	-590	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/show_bounds	container	tox	tox/T3D_1_12/T3D_operators/geo_to/show_bounds.tox	2026-09-21 05:18:07 UTC		1	2025.33230	245	-640	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/pbr2GLSLPixel	text	glsl	tox/T3D_1_12/T3D_operators/geo_to/render/pbr2GLSLPixel.glsl	2026-09-21 05:18:07 UTC				285	1130	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/pbr1GLSLVertex	text	glsl	tox/T3D_1_12/T3D_operators/geo_to/render/pbr1GLSLVertex.glsl	2026-09-21 05:18:07 UTC				285	1255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/pbr1GLSLPixel1	text	glsl	tox/T3D_1_12/T3D_operators/geo_to/render/pbr1GLSLPixel1.glsl	2026-09-21 05:18:07 UTC				285	1405	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/glslmulti9_compute	text	glsl	tox/T3D_1_12/T3D_operators/geo_to/render/glslmulti9_compute.glsl	2026-09-21 05:18:07 UTC				1635	380	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/glslmulti8_compute	text	glsl	tox/T3D_1_12/T3D_operators/geo_to/render/glslmulti8_compute.glsl	2026-09-21 05:18:07 UTC				1635	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/glslmulti7_compute	text	glsl	tox/T3D_1_12/T3D_operators/geo_to/render/glslmulti7_compute.glsl	2026-09-21 05:18:07 UTC				1635	130	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/glslmulti6_compute	text	glsl	tox/T3D_1_12/T3D_operators/geo_to/render/glslmulti6_compute.glsl	2026-09-21 05:18:07 UTC				2175	557	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/glslmulti5_compute	text	glsl	tox/T3D_1_12/T3D_operators/geo_to/render/glslmulti5_compute.glsl	2026-09-21 05:18:07 UTC				1635	805	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/glslmulti4_compute	text	glsl	tox/T3D_1_12/T3D_operators/geo_to/render/glslmulti4_compute.glsl	2026-09-21 05:18:07 UTC				1635	680	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/glslmulti3_compute	text	glsl	tox/T3D_1_12/T3D_operators/geo_to/render/glslmulti3_compute.glsl	2026-09-21 05:18:07 UTC				1635	555	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/glslmulti1_compute	text	glsl	tox/T3D_1_12/T3D_operators/geo_to/render/glslmulti1_compute.glsl	2026-09-21 05:18:07 UTC				2175	700	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/glslmulti10_compute	text	glsl	tox/T3D_1_12/T3D_operators/geo_to/render/glslmulti10_compute.glsl	2026-09-21 05:18:07 UTC				2725	675	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/camz	cam	tox	tox/T3D_1_12/T3D_operators/geo_to/render/camz.tox	2026-09-21 05:18:07 UTC		1	2025.33230	670	610	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/camy	cam	tox	tox/T3D_1_12/T3D_operators/geo_to/render/camy.tox	2026-09-21 05:18:07 UTC		1	2025.33230	670	760	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render/camx	cam	tox	tox/T3D_1_12/T3D_operators/geo_to/render/camx.tox	2026-09-21 05:18:07 UTC		1	2025.33230	670	910	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/render	base	tox	tox/T3D_1_12/T3D_operators/geo_to/render.tox	2026-09-21 05:18:07 UTC		1	2025.33230	250	-75	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/parexec2	parexec	py	tox/T3D_1_12/T3D_operators/geo_to/parexec2.py	2026-09-21 05:18:07 UTC				685	80	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/parexec1	parexec	py	tox/T3D_1_12/T3D_operators/geo_to/parexec1.py	2026-09-21 05:18:07 UTC				685	280	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/glslmulti6_compute	text	glsl	tox/T3D_1_12/T3D_operators/geo_to/glslmulti6_compute.glsl	2026-09-21 05:18:07 UTC				685	-170	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/geo	geo	tox	tox/T3D_1_12/T3D_operators/geo_to/geo.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-55	-65	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/execute1	execute	py	tox/T3D_1_12/T3D_operators/geo_to/execute1.py	2026-09-21 05:18:07 UTC				685	180	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/calc_bounds/table3	table	tsv	tox/T3D_1_12/T3D_operators/geo_to/calc_bounds/table3.tsv	2026-09-21 05:18:07 UTC				-3325	50	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/calc_bounds/table2	table	tsv	tox/T3D_1_12/T3D_operators/geo_to/calc_bounds/table2.tsv	2026-09-21 05:18:07 UTC				-3300	150	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/calc_bounds/table1	table	tsv	tox/T3D_1_12/T3D_operators/geo_to/calc_bounds/table1.tsv	2026-09-21 05:18:07 UTC				-3300	275	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/calc_bounds/parexec1	parexec	py	tox/T3D_1_12/T3D_operators/geo_to/calc_bounds/parexec1.py	2026-09-21 05:18:07 UTC				-1640	455	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/calc_bounds	base	tox	tox/T3D_1_12/T3D_operators/geo_to/calc_bounds.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-55	-365	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/TransformExt	text	py	tox/T3D_1_12/T3D_operators/geo_to/TransformExt.py	2026-09-21 05:18:07 UTC				-525	-575	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/geo_to/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:07 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/geo_to/T3D_utils/bypass_execute.py	2026-09-21 05:18:07 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/geo_to/T3D_utils/T3DExt.py	2026-09-21 05:18:07 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/geo_to/T3D_utils.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/geo_to	base	tox	tox/T3D_1_12/T3D_operators/geo_to.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-650	4175	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/function/glsl1_compute3	text	glsl	tox/T3D_1_12/T3D_operators/function/glsl1_compute3.glsl	2026-09-21 05:18:07 UTC				-190	30	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/function/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/function/glsl1_compute2.glsl	2026-09-21 05:18:07 UTC				-190	205	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/function/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/function/glsl1_compute1.glsl	2026-09-21 05:18:07 UTC				35	223	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/function/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/function/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:07 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/function/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/function/T3D_utils/bypass_execute.py	2026-09-21 05:18:07 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/function/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/function/T3D_utils/T3DExt.py	2026-09-21 05:18:07 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/function/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/function/T3D_utils.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/function	base	tox	tox/T3D_1_12/T3D_operators/function.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-1950	2950	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/transform	null	tox	tox/T3D_1_12/T3D_operators/fractal/transform.tox	2026-09-21 05:18:07 UTC		1	2025.33230	20	310	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/iterative_transforms	base	tox	tox/T3D_1_12/T3D_operators/fractal/iterative_transforms.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-155	-190	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/fractal/glsl1_compute2.glsl	2026-09-21 05:18:07 UTC				-365	80	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fractal/glsl1_compute1.glsl	2026-09-21 05:18:07 UTC				25	25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/composite2/transform	null	tox	tox/T3D_1_12/T3D_operators/fractal/composite2/transform.tox	2026-09-21 05:18:07 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/composite2/replicator2_callbacks	text	py	tox/T3D_1_12/T3D_operators/fractal/composite2/replicator2_callbacks.py	2026-09-21 05:18:07 UTC				-825	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/composite2/replicator2	replicator	tox	tox/T3D_1_12/T3D_operators/fractal/composite2/replicator2.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-825	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/composite2/replicator1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fractal/composite2/replicator1_callbacks.py	2026-09-21 05:18:07 UTC				-1025	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/composite2/replicator1	replicator	tox	tox/T3D_1_12/T3D_operators/fractal/composite2/replicator1.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-1025	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/composite2/prefit	text	glsl	tox/T3D_1_12/T3D_operators/fractal/composite2/prefit.glsl	2026-09-21 05:18:07 UTC				-115	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/composite2/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/fractal/composite2/glsl1_compute2.glsl	2026-09-21 05:18:07 UTC				-1240	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/composite2/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fractal/composite2/glsl1_compute1.glsl	2026-09-21 05:18:07 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/composite2/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/fractal/composite2/chopexec1.py	2026-09-21 05:18:07 UTC				-200	925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/composite2/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fractal/composite2/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:07 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/composite2/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fractal/composite2/T3D_utils/bypass_execute.py	2026-09-21 05:18:07 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/composite2/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fractal/composite2/T3D_utils/T3DExt.py	2026-09-21 05:18:07 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/composite2/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fractal/composite2/T3D_utils.tox	2026-09-21 05:18:07 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/composite2	base	tox	tox/T3D_1_12/T3D_operators/fractal/composite2.tox	2026-09-21 05:18:07 UTC		1	2025.33230	295	185	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fractal/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:07 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fractal/T3D_utils/bypass_execute.py	2026-09-21 05:18:08 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fractal/T3D_utils/T3DExt.py	2026-09-21 05:18:08 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fractal/T3D_utils.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fractal	base	tox	tox/T3D_1_12/T3D_operators/fractal.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-1730	4610	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/math1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/fluid/substance_advection/math1/glsl1_compute2.glsl	2026-09-21 05:18:08 UTC				-190	205	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/math1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fluid/substance_advection/math1/glsl1_compute1.glsl	2026-09-21 05:18:08 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/math1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/substance_advection/math1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:08 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/math1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fluid/substance_advection/math1/T3D_utils/bypass_execute.py	2026-09-21 05:18:08 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/math1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fluid/substance_advection/math1/T3D_utils/T3DExt.py	2026-09-21 05:18:08 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/math1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fluid/substance_advection/math1/T3D_utils.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/math1	base	tox	tox/T3D_1_12/T3D_operators/fluid/substance_advection/math1.tox	2026-09-21 05:18:08 UTC		1	2025.33230	145	-165	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/diffusion/glsl1_compute	text	glsl	tox/T3D_1_12/T3D_operators/fluid/substance_advection/diffusion/glsl1_compute.glsl	2026-09-21 05:18:08 UTC				25	-350	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/diffusion	base	tox	tox/T3D_1_12/T3D_operators/fluid/substance_advection/diffusion.tox	2026-09-21 05:18:08 UTC		1	2025.33230	945	-240	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/advection/glsl3_compute	text	glsl	tox/T3D_1_12/T3D_operators/fluid/substance_advection/advection/glsl3_compute.glsl	2026-09-21 05:18:08 UTC				-265	-327	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/advection	base	tox	tox/T3D_1_12/T3D_operators/fluid/substance_advection/advection.tox	2026-09-21 05:18:08 UTC		1	2025.33230	650	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/add2/transform	null	tox	tox/T3D_1_12/T3D_operators/fluid/substance_advection/add2/transform.tox	2026-09-21 05:18:08 UTC		1	2025.33230	564	113	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/add2/prefit	text	glsl	tox/T3D_1_12/T3D_operators/fluid/substance_advection/add2/prefit.glsl	2026-09-21 05:18:08 UTC				385	-245	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/add2/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/fluid/substance_advection/add2/glsl1_compute2.glsl	2026-09-21 05:18:08 UTC				-65	-220	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/add2/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fluid/substance_advection/add2/glsl1_compute1.glsl	2026-09-21 05:18:08 UTC				560	-245	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/add2/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/substance_advection/add2/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:08 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/add2/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fluid/substance_advection/add2/T3D_utils/bypass_execute.py	2026-09-21 05:18:08 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/add2/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fluid/substance_advection/add2/T3D_utils/T3DExt.py	2026-09-21 05:18:08 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/add2/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fluid/substance_advection/add2/T3D_utils.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection/add2	base	tox	tox/T3D_1_12/T3D_operators/fluid/substance_advection/add2.tox	2026-09-21 05:18:08 UTC		1	2025.33230	1250	-175	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/substance_advection	base	tox	tox/T3D_1_12/T3D_operators/fluid/substance_advection.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-400	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/reorder1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/fluid/reorder1/glsl1_compute2.glsl	2026-09-21 05:18:08 UTC				-290	355	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/reorder1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fluid/reorder1/glsl1_compute1.glsl	2026-09-21 05:18:08 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/reorder1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/reorder1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:08 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/reorder1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fluid/reorder1/T3D_utils/bypass_execute.py	2026-09-21 05:18:08 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/reorder1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fluid/reorder1/T3D_utils/T3DExt.py	2026-09-21 05:18:08 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/reorder1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fluid/reorder1/T3D_utils.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/reorder1	base	tox	tox/T3D_1_12/T3D_operators/fluid/reorder1.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-1700	-300	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/pressure_projection/matte1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/fluid/pressure_projection/matte1/glsl1_compute2.glsl	2026-09-21 05:18:08 UTC				-115	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/pressure_projection/matte1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fluid/pressure_projection/matte1/glsl1_compute1.glsl	2026-09-21 05:18:08 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/pressure_projection/matte1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/pressure_projection/matte1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:08 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/pressure_projection/matte1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fluid/pressure_projection/matte1/T3D_utils/bypass_execute.py	2026-09-21 05:18:08 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/pressure_projection/matte1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fluid/pressure_projection/matte1/T3D_utils/T3DExt.py	2026-09-21 05:18:08 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/pressure_projection/matte1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fluid/pressure_projection/matte1/T3D_utils.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/pressure_projection/matte1	base	tox	tox/T3D_1_12/T3D_operators/fluid/pressure_projection/matte1.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-1680	-465	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/pressure_projection/glsl4_compute	text	glsl	tox/T3D_1_12/T3D_operators/fluid/pressure_projection/glsl4_compute.glsl	2026-09-21 05:18:08 UTC				-925	-425	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/pressure_projection/glsl3_compute	text	glsl	tox/T3D_1_12/T3D_operators/fluid/pressure_projection/glsl3_compute.glsl	2026-09-21 05:18:08 UTC				-1475	-600	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/pressure_projection/glsl2_compute	text	glsl	tox/T3D_1_12/T3D_operators/fluid/pressure_projection/glsl2_compute.glsl	2026-09-21 05:18:08 UTC				-1275	-475	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/pressure_projection/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fluid/pressure_projection/glsl1_compute1.glsl	2026-09-21 05:18:08 UTC				-1650	-400	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/pressure_projection	base	tox	tox/T3D_1_12/T3D_operators/fluid/pressure_projection.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-625	75	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/fluid/glsl1_compute2.glsl	2026-09-21 05:18:08 UTC				-1765	-420	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/forces/glsl4_compute	text	glsl	tox/T3D_1_12/T3D_operators/fluid/forces/glsl4_compute.glsl	2026-09-21 05:18:08 UTC				325	-775	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/forces/glsl2_compute	text	glsl	tox/T3D_1_12/T3D_operators/fluid/forces/glsl2_compute.glsl	2026-09-21 05:18:08 UTC				-50	-775	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/forces/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fluid/forces/glsl1_compute1.glsl	2026-09-21 05:18:08 UTC				285	-445	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/forces/glsl1_compute	text	glsl	tox/T3D_1_12/T3D_operators/fluid/forces/glsl1_compute.glsl	2026-09-21 05:18:08 UTC				790	-330	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/forces	base	tox	tox/T3D_1_12/T3D_operators/fluid/forces.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-850	75	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/diffusion/glsl1_compute	text	glsl	tox/T3D_1_12/T3D_operators/fluid/diffusion/glsl1_compute.glsl	2026-09-21 05:18:08 UTC				50	-350	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/diffusion	base	tox	tox/T3D_1_12/T3D_operators/fluid/diffusion.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-1075	75	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fluid/constant3/glsl1_compute1.glsl	2026-09-21 05:18:08 UTC				-65	-95	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/composite1/transform	null	tox	tox/T3D_1_12/T3D_operators/fluid/constant3/composite1/transform.tox	2026-09-21 05:18:08 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/composite1/replicator2_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/constant3/composite1/replicator2_callbacks.py	2026-09-21 05:18:08 UTC				-825	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/composite1/replicator2	replicator	tox	tox/T3D_1_12/T3D_operators/fluid/constant3/composite1/replicator2.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-825	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/composite1/replicator1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/constant3/composite1/replicator1_callbacks.py	2026-09-21 05:18:08 UTC				-1025	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/composite1/replicator1	replicator	tox	tox/T3D_1_12/T3D_operators/fluid/constant3/composite1/replicator1.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-1025	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/composite1/prefit	text	glsl	tox/T3D_1_12/T3D_operators/fluid/constant3/composite1/prefit.glsl	2026-09-21 05:18:08 UTC				-125	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/composite1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/fluid/constant3/composite1/glsl1_compute2.glsl	2026-09-21 05:18:08 UTC				-1240	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/composite1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fluid/constant3/composite1/glsl1_compute1.glsl	2026-09-21 05:18:08 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/composite1/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/fluid/constant3/composite1/chopexec1.py	2026-09-21 05:18:08 UTC				-200	925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/composite1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/constant3/composite1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:08 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/composite1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fluid/constant3/composite1/T3D_utils/bypass_execute.py	2026-09-21 05:18:08 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/composite1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fluid/constant3/composite1/T3D_utils/T3DExt.py	2026-09-21 05:18:08 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/composite1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fluid/constant3/composite1/T3D_utils.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/composite1	base	tox	tox/T3D_1_12/T3D_operators/fluid/constant3/composite1.tox	2026-09-21 05:18:08 UTC		1	2025.33230	275	250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/constant3/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:08 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fluid/constant3/T3D_utils/bypass_execute.py	2026-09-21 05:18:08 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fluid/constant3/T3D_utils/T3DExt.py	2026-09-21 05:18:08 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fluid/constant3/T3D_utils.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant3	base	tox	tox/T3D_1_12/T3D_operators/fluid/constant3.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-2000	75	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fluid/constant1/glsl1_compute1.glsl	2026-09-21 05:18:08 UTC				-65	-95	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/composite1/transform	null	tox	tox/T3D_1_12/T3D_operators/fluid/constant1/composite1/transform.tox	2026-09-21 05:18:08 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/composite1/replicator2_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/constant1/composite1/replicator2_callbacks.py	2026-09-21 05:18:08 UTC				-825	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/composite1/replicator2	replicator	tox	tox/T3D_1_12/T3D_operators/fluid/constant1/composite1/replicator2.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-825	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/composite1/replicator1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/constant1/composite1/replicator1_callbacks.py	2026-09-21 05:18:08 UTC				-1025	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/composite1/replicator1	replicator	tox	tox/T3D_1_12/T3D_operators/fluid/constant1/composite1/replicator1.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-1025	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/composite1/prefit	text	glsl	tox/T3D_1_12/T3D_operators/fluid/constant1/composite1/prefit.glsl	2026-09-21 05:18:08 UTC				-125	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/composite1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/fluid/constant1/composite1/glsl1_compute2.glsl	2026-09-21 05:18:08 UTC				-1240	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/composite1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fluid/constant1/composite1/glsl1_compute1.glsl	2026-09-21 05:18:08 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/composite1/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/fluid/constant1/composite1/chopexec1.py	2026-09-21 05:18:08 UTC				-200	925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/composite1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/constant1/composite1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:08 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/composite1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fluid/constant1/composite1/T3D_utils/bypass_execute.py	2026-09-21 05:18:08 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/composite1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fluid/constant1/composite1/T3D_utils/T3DExt.py	2026-09-21 05:18:08 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/composite1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fluid/constant1/composite1/T3D_utils.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/composite1	base	tox	tox/T3D_1_12/T3D_operators/fluid/constant1/composite1.tox	2026-09-21 05:18:08 UTC		1	2025.33230	275	250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/constant1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:08 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fluid/constant1/T3D_utils/bypass_execute.py	2026-09-21 05:18:08 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fluid/constant1/T3D_utils/T3DExt.py	2026-09-21 05:18:08 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fluid/constant1/T3D_utils.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/constant1	base	tox	tox/T3D_1_12/T3D_operators/fluid/constant1.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-830	-265	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/composite1/transform	null	tox	tox/T3D_1_12/T3D_operators/fluid/composite1/transform.tox	2026-09-21 05:18:08 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/composite1/replicator2_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/composite1/replicator2_callbacks.py	2026-09-21 05:18:08 UTC				-825	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/composite1/replicator2	replicator	tox	tox/T3D_1_12/T3D_operators/fluid/composite1/replicator2.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-825	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/composite1/replicator1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/composite1/replicator1_callbacks.py	2026-09-21 05:18:08 UTC				-1025	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/composite1/replicator1	replicator	tox	tox/T3D_1_12/T3D_operators/fluid/composite1/replicator1.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-1025	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/composite1/prefit	text	glsl	tox/T3D_1_12/T3D_operators/fluid/composite1/prefit.glsl	2026-09-21 05:18:08 UTC				-115	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/composite1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/fluid/composite1/glsl1_compute2.glsl	2026-09-21 05:18:08 UTC				-1240	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/composite1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fluid/composite1/glsl1_compute1.glsl	2026-09-21 05:18:08 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/composite1/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/fluid/composite1/chopexec1.py	2026-09-21 05:18:08 UTC				-200	925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/composite1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/composite1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:08 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/composite1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fluid/composite1/T3D_utils/bypass_execute.py	2026-09-21 05:18:08 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/composite1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fluid/composite1/T3D_utils/T3DExt.py	2026-09-21 05:18:08 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/composite1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fluid/composite1/T3D_utils.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/composite1	base	tox	tox/T3D_1_12/T3D_operators/fluid/composite1.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-1500	-200	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/transform	null	tox	tox/T3D_1_12/T3D_operators/fluid/box1/transform.tox	2026-09-21 05:18:08 UTC		1	2025.33230	20	435	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/fluid/box1/glsl1_compute2.glsl	2026-09-21 05:18:08 UTC				-365	80	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fluid/box1/glsl1_compute1.glsl	2026-09-21 05:18:08 UTC				35	198	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/composite2/transform	null	tox	tox/T3D_1_12/T3D_operators/fluid/box1/composite2/transform.tox	2026-09-21 05:18:08 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/composite2/replicator2_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/box1/composite2/replicator2_callbacks.py	2026-09-21 05:18:08 UTC				-825	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/composite2/replicator2	replicator	tox	tox/T3D_1_12/T3D_operators/fluid/box1/composite2/replicator2.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-825	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/composite2/replicator1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/box1/composite2/replicator1_callbacks.py	2026-09-21 05:18:08 UTC				-1025	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/composite2/replicator1	replicator	tox	tox/T3D_1_12/T3D_operators/fluid/box1/composite2/replicator1.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-1025	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/composite2/prefit	text	glsl	tox/T3D_1_12/T3D_operators/fluid/box1/composite2/prefit.glsl	2026-09-21 05:18:08 UTC				-115	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/composite2/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/fluid/box1/composite2/glsl1_compute2.glsl	2026-09-21 05:18:08 UTC				-1240	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/composite2/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fluid/box1/composite2/glsl1_compute1.glsl	2026-09-21 05:18:08 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/composite2/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/fluid/box1/composite2/chopexec1.py	2026-09-21 05:18:08 UTC				-200	925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/composite2/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/box1/composite2/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:08 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/composite2/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fluid/box1/composite2/T3D_utils/bypass_execute.py	2026-09-21 05:18:08 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/composite2/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fluid/box1/composite2/T3D_utils/T3DExt.py	2026-09-21 05:18:08 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/composite2/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fluid/box1/composite2/T3D_utils.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/composite2	base	tox	tox/T3D_1_12/T3D_operators/fluid/box1/composite2.tox	2026-09-21 05:18:08 UTC		1	2025.33230	295	185	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/box1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:08 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fluid/box1/T3D_utils/bypass_execute.py	2026-09-21 05:18:08 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fluid/box1/T3D_utils/T3DExt.py	2026-09-21 05:18:08 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fluid/box1/T3D_utils.tox	2026-09-21 05:18:08 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/box1	base	tox	tox/T3D_1_12/T3D_operators/fluid/box1.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-1750	-100	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/advection/matte1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/fluid/advection/matte1/glsl1_compute2.glsl	2026-09-21 05:18:09 UTC				-115	205	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/advection/matte1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fluid/advection/matte1/glsl1_compute1.glsl	2026-09-21 05:18:09 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/advection/matte1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/advection/matte1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:09 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/advection/matte1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fluid/advection/matte1/T3D_utils/bypass_execute.py	2026-09-21 05:18:09 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/advection/matte1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fluid/advection/matte1/T3D_utils/T3DExt.py	2026-09-21 05:18:09 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/advection/matte1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fluid/advection/matte1/T3D_utils.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/advection/matte1	base	tox	tox/T3D_1_12/T3D_operators/fluid/advection/matte1.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-200	150	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/advection/glsl5_compute	text	glsl	tox/T3D_1_12/T3D_operators/fluid/advection/glsl5_compute.glsl	2026-09-21 05:18:09 UTC				0	25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/advection	base	tox	tox/T3D_1_12/T3D_operators/fluid/advection.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-1300	75	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fluid/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:09 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fluid/T3D_utils/bypass_execute.py	2026-09-21 05:18:09 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fluid/T3D_utils/T3DExt.py	2026-09-21 05:18:09 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fluid/T3D_utils.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fluid	base	tox	tox/T3D_1_12/T3D_operators/fluid.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-425	4350	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fit/transform	null	tox	tox/T3D_1_12/T3D_operators/fit/transform.tox	2026-09-21 05:18:09 UTC		1	2025.33230	539	438	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fit/prefit	text	glsl	tox/T3D_1_12/T3D_operators/fit/prefit.glsl	2026-09-21 05:18:09 UTC				349	93	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fit/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/fit/glsl1_compute2.glsl	2026-09-21 05:18:09 UTC				-190	105	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fit/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/fit/glsl1_compute1.glsl	2026-09-21 05:18:09 UTC				539	88	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fit/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/fit/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:09 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fit/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/fit/T3D_utils/bypass_execute.py	2026-09-21 05:18:09 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fit/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/fit/T3D_utils/T3DExt.py	2026-09-21 05:18:09 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fit/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/fit/T3D_utils.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/fit	base	tox	tox/T3D_1_12/T3D_operators/fit.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-1945	3415	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/edge/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/edge/glsl1_compute2.glsl	2026-09-21 05:18:09 UTC				-465	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/edge/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/edge/glsl1_compute1.glsl	2026-09-21 05:18:09 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/edge/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/edge/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:09 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/edge/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/edge/T3D_utils/bypass_execute.py	2026-09-21 05:18:09 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/edge/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/edge/T3D_utils/T3DExt.py	2026-09-21 05:18:09 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/edge/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/edge/T3D_utils.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/edge	base	tox	tox/T3D_1_12/T3D_operators/edge.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-1675	3450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/distance/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/distance/glsl1_compute1.glsl	2026-09-21 05:18:09 UTC				-90	-145	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/distance/glsl1_compute	text	glsl	tox/T3D_1_12/T3D_operators/distance/glsl1_compute.glsl	2026-09-21 05:18:09 UTC				275	-150	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/distance/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/distance/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:09 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/distance/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/distance/T3D_utils/bypass_execute.py	2026-09-21 05:18:09 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/distance/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/distance/T3D_utils/T3DExt.py	2026-09-21 05:18:09 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/distance/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/distance/T3D_utils.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/distance	base	tox	tox/T3D_1_12/T3D_operators/distance.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-1150	4350	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/displace/transform	null	tox	tox/T3D_1_12/T3D_operators/displace/transform.tox	2026-09-21 05:18:09 UTC		1	2025.33230	64	263	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/displace/prefit	text	glsl	tox/T3D_1_12/T3D_operators/displace/prefit.glsl	2026-09-21 05:18:09 UTC				-115	5	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/displace/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/displace/glsl1_compute2.glsl	2026-09-21 05:18:09 UTC				-665	30	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/displace/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/displace/glsl1_compute1.glsl	2026-09-21 05:18:09 UTC				75	0	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/displace/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/displace/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:09 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/displace/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/displace/T3D_utils/bypass_execute.py	2026-09-21 05:18:09 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/displace/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/displace/T3D_utils/T3DExt.py	2026-09-21 05:18:09 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/displace/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/displace/T3D_utils.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/displace	base	tox	tox/T3D_1_12/T3D_operators/displace.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-1425	4050	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/difference/transform	null	tox	tox/T3D_1_12/T3D_operators/difference/transform.tox	2026-09-21 05:18:09 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/difference/prefit	text	glsl	tox/T3D_1_12/T3D_operators/difference/prefit.glsl	2026-09-21 05:18:09 UTC				-90	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/difference/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/difference/glsl1_compute2.glsl	2026-09-21 05:18:09 UTC				-715	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/difference/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/difference/glsl1_compute1.glsl	2026-09-21 05:18:09 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/difference/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/difference/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:09 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/difference/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/difference/T3D_utils/bypass_execute.py	2026-09-21 05:18:09 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/difference/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/difference/T3D_utils/T3DExt.py	2026-09-21 05:18:09 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/difference/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/difference/T3D_utils.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/difference	base	tox	tox/T3D_1_12/T3D_operators/difference.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-1945	3590	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/cross/transform	null	tox	tox/T3D_1_12/T3D_operators/cross/transform.tox	2026-09-21 05:18:09 UTC		1	2025.33230	50	600	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/cross/prefit	text	glsl	tox/T3D_1_12/T3D_operators/cross/prefit.glsl	2026-09-21 05:18:09 UTC				235	480	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/cross/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/cross/glsl1_compute2.glsl	2026-09-21 05:18:09 UTC				-715	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/cross/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/cross/glsl1_compute1.glsl	2026-09-21 05:18:09 UTC				60	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/cross/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/cross/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:09 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/cross/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/cross/T3D_utils/bypass_execute.py	2026-09-21 05:18:09 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/cross/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/cross/T3D_utils/T3DExt.py	2026-09-21 05:18:09 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/cross/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/cross/T3D_utils.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/cross	base	tox	tox/T3D_1_12/T3D_operators/cross.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-1950	3900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/constant/glsl1_compute1.glsl	2026-09-21 05:18:09 UTC				-65	-95	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/composite1/transform	null	tox	tox/T3D_1_12/T3D_operators/constant/composite1/transform.tox	2026-09-21 05:18:09 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/composite1/replicator2_callbacks	text	py	tox/T3D_1_12/T3D_operators/constant/composite1/replicator2_callbacks.py	2026-09-21 05:18:09 UTC				-825	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/composite1/replicator2	replicator	tox	tox/T3D_1_12/T3D_operators/constant/composite1/replicator2.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-825	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/composite1/replicator1_callbacks	text	py	tox/T3D_1_12/T3D_operators/constant/composite1/replicator1_callbacks.py	2026-09-21 05:18:09 UTC				-1025	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/composite1/replicator1	replicator	tox	tox/T3D_1_12/T3D_operators/constant/composite1/replicator1.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-1025	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/composite1/prefit	text	glsl	tox/T3D_1_12/T3D_operators/constant/composite1/prefit.glsl	2026-09-21 05:18:09 UTC				-125	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/composite1/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/constant/composite1/glsl1_compute2.glsl	2026-09-21 05:18:09 UTC				-1240	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/composite1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/constant/composite1/glsl1_compute1.glsl	2026-09-21 05:18:09 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/composite1/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/constant/composite1/chopexec1.py	2026-09-21 05:18:09 UTC				-200	925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/composite1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/constant/composite1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:09 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/composite1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/constant/composite1/T3D_utils/bypass_execute.py	2026-09-21 05:18:09 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/composite1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/constant/composite1/T3D_utils/T3DExt.py	2026-09-21 05:18:09 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/composite1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/constant/composite1/T3D_utils.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/composite1	base	tox	tox/T3D_1_12/T3D_operators/constant/composite1.tox	2026-09-21 05:18:09 UTC		1	2025.33230	275	250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/constant/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:09 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/constant/T3D_utils/bypass_execute.py	2026-09-21 05:18:09 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/constant/T3D_utils/T3DExt.py	2026-09-21 05:18:09 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/constant/T3D_utils.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/constant	base	tox	tox/T3D_1_12/T3D_operators/constant.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-1950	5225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/composite/transform	null	tox	tox/T3D_1_12/T3D_operators/composite/transform.tox	2026-09-21 05:18:09 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/composite/replicator2_callbacks	text	py	tox/T3D_1_12/T3D_operators/composite/replicator2_callbacks.py	2026-09-21 05:18:09 UTC				-825	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/composite/replicator2	replicator	tox	tox/T3D_1_12/T3D_operators/composite/replicator2.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-825	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/composite/replicator1_callbacks	text	py	tox/T3D_1_12/T3D_operators/composite/replicator1_callbacks.py	2026-09-21 05:18:09 UTC				-1025	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/composite/replicator1	replicator	tox	tox/T3D_1_12/T3D_operators/composite/replicator1.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-1025	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/composite/prefit	text	glsl	tox/T3D_1_12/T3D_operators/composite/prefit.glsl	2026-09-21 05:18:09 UTC				-115	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/composite/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/composite/glsl1_compute2.glsl	2026-09-21 05:18:09 UTC				-1240	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/composite/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/composite/glsl1_compute1.glsl	2026-09-21 05:18:09 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/composite/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/composite/chopexec1.py	2026-09-21 05:18:09 UTC				-200	925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/composite/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/composite/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:09 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/composite/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/composite/T3D_utils/bypass_execute.py	2026-09-21 05:18:09 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/composite/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/composite/T3D_utils/T3DExt.py	2026-09-21 05:18:09 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/composite/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/composite/T3D_utils.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/composite	base	tox	tox/T3D_1_12/T3D_operators/composite.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-1950	3750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/transform	null	tox	tox/T3D_1_12/T3D_operators/box/transform.tox	2026-09-21 05:18:09 UTC		1	2025.33230	20	435	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/box/glsl1_compute2.glsl	2026-09-21 05:18:09 UTC				-365	80	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/box/glsl1_compute1.glsl	2026-09-21 05:18:09 UTC				35	198	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/composite2/transform	null	tox	tox/T3D_1_12/T3D_operators/box/composite2/transform.tox	2026-09-21 05:18:09 UTC		1	2025.33230	50	625	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/composite2/replicator2_callbacks	text	py	tox/T3D_1_12/T3D_operators/box/composite2/replicator2_callbacks.py	2026-09-21 05:18:09 UTC				-825	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/composite2/replicator2	replicator	tox	tox/T3D_1_12/T3D_operators/box/composite2/replicator2.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-825	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/composite2/replicator1_callbacks	text	py	tox/T3D_1_12/T3D_operators/box/composite2/replicator1_callbacks.py	2026-09-21 05:18:09 UTC				-1025	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/composite2/replicator1	replicator	tox	tox/T3D_1_12/T3D_operators/box/composite2/replicator1.tox	2026-09-21 05:18:09 UTC		1	2025.33230	-1025	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/composite2/prefit	text	glsl	tox/T3D_1_12/T3D_operators/box/composite2/prefit.glsl	2026-09-21 05:18:10 UTC				-115	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/composite2/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/box/composite2/glsl1_compute2.glsl	2026-09-21 05:18:10 UTC				-1240	255	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/composite2/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/box/composite2/glsl1_compute1.glsl	2026-09-21 05:18:10 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/composite2/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/box/composite2/chopexec1.py	2026-09-21 05:18:10 UTC				-200	925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/composite2/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/box/composite2/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:10 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/composite2/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/box/composite2/T3D_utils/bypass_execute.py	2026-09-21 05:18:10 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/composite2/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/box/composite2/T3D_utils/T3DExt.py	2026-09-21 05:18:10 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/composite2/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/box/composite2/T3D_utils.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/composite2	base	tox	tox/T3D_1_12/T3D_operators/box/composite2.tox	2026-09-21 05:18:10 UTC		1	2025.33230	295	185	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/box/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:10 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/box/T3D_utils/bypass_execute.py	2026-09-21 05:18:10 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/box/T3D_utils/T3DExt.py	2026-09-21 05:18:10 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/box/T3D_utils.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/box	base	tox	tox/T3D_1_12/T3D_operators/box.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-1725	5075	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/blur/glsl6_compute	text	glsl	tox/T3D_1_12/T3D_operators/blur/glsl6_compute.glsl	2026-09-21 05:18:10 UTC				-1015	-45	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/blur/glsl5_compute	text	glsl	tox/T3D_1_12/T3D_operators/blur/glsl5_compute.glsl	2026-09-21 05:18:10 UTC				-1315	-45	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/blur/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/blur/glsl1_compute1.glsl	2026-09-21 05:18:10 UTC				-1680	-40	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/blur/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/blur/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:10 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/blur/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/blur/T3D_utils/bypass_execute.py	2026-09-21 05:18:10 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/blur/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/blur/T3D_utils/T3DExt.py	2026-09-21 05:18:10 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/blur/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/blur/T3D_utils.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/blur	base	tox	tox/T3D_1_12/T3D_operators/blur.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-1680	3910	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/glsl1_compute4	text	glsl	tox/T3D_1_12/T3D_operators/analyze/glsl1_compute4.glsl	2026-09-21 05:18:10 UTC				385	5	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/glsl1_compute3	text	glsl	tox/T3D_1_12/T3D_operators/analyze/glsl1_compute3.glsl	2026-09-21 05:18:10 UTC				385	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/analyze/glsl1_compute2.glsl	2026-09-21 05:18:10 UTC				-40	230	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/analyze/constant1/glsl1_compute1.glsl	2026-09-21 05:18:10 UTC				35	205	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/constant1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/analyze/constant1/constant1/glsl1_compute1.glsl	2026-09-21 05:18:10 UTC				50	200	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/constant1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/analyze/constant1/constant1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:10 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/constant1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/analyze/constant1/constant1/T3D_utils/bypass_execute.py	2026-09-21 05:18:10 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/constant1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/analyze/constant1/constant1/T3D_utils/T3DExt.py	2026-09-21 05:18:10 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/constant1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/analyze/constant1/constant1/T3D_utils.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-100	-375	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/constant1	base	tox	tox/T3D_1_12/T3D_operators/analyze/constant1/constant1.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-355	35	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/composite1/script1_callbacks	text	py	tox/T3D_1_12/T3D_operators/analyze/constant1/composite1/script1_callbacks.py	2026-09-21 05:18:10 UTC				210	385	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/composite1/replicator2_callbacks	text	py	tox/T3D_1_12/T3D_operators/analyze/constant1/composite1/replicator2_callbacks.py	2026-09-21 05:18:10 UTC				-825	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/composite1/replicator2	replicator	tox	tox/T3D_1_12/T3D_operators/analyze/constant1/composite1/replicator2.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-825	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/composite1/replicator1_callbacks	text	py	tox/T3D_1_12/T3D_operators/analyze/constant1/composite1/replicator1_callbacks.py	2026-09-21 05:18:10 UTC				-1025	750	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/composite1/replicator1	replicator	tox	tox/T3D_1_12/T3D_operators/analyze/constant1/composite1/replicator1.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-1025	900	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/composite1/prefit	text	glsl	tox/T3D_1_12/T3D_operators/analyze/constant1/composite1/prefit.glsl	2026-09-21 05:18:10 UTC				375	500	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/composite1/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/analyze/constant1/composite1/glsl1_compute1.glsl	2026-09-21 05:18:10 UTC				50	225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/composite1/chopexec1	chopexec	py	tox/T3D_1_12/T3D_operators/analyze/constant1/composite1/chopexec1.py	2026-09-21 05:18:10 UTC				-200	925	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/composite1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/analyze/constant1/composite1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:10 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/composite1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/analyze/constant1/composite1/T3D_utils/bypass_execute.py	2026-09-21 05:18:10 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/composite1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/analyze/constant1/composite1/T3D_utils/T3DExt.py	2026-09-21 05:18:10 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/composite1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/analyze/constant1/composite1/T3D_utils.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-100	-375	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/composite1	base	tox	tox/T3D_1_12/T3D_operators/analyze/constant1/composite1.tox	2026-09-21 05:18:10 UTC		1	2025.33230	294	183	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/analyze/constant1/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:10 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/analyze/constant1/T3D_utils/bypass_execute.py	2026-09-21 05:18:10 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/analyze/constant1/T3D_utils/T3DExt.py	2026-09-21 05:18:10 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/analyze/constant1/T3D_utils.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/constant1	base	tox	tox/T3D_1_12/T3D_operators/analyze/constant1.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-505	285	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/analyze/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:10 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/analyze/T3D_utils/bypass_execute.py	2026-09-21 05:18:10 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/analyze/T3D_utils/T3DExt.py	2026-09-21 05:18:10 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/analyze/T3D_utils.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/analyze	base	tox	tox/T3D_1_12/T3D_operators/analyze.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-1945	3265	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/transform/create1	base	tox	tox/T3D_1_12/T3D_operators/advect/transform/create1.tox	2026-09-21 05:18:10 UTC		1	2025.33230	0	0	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/transform	null	tox	tox/T3D_1_12/T3D_operators/advect/transform.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-205	60	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/show_bounds/geo3	geo	tox	tox/T3D_1_12/T3D_operators/advect/show_bounds/geo3.tox	2026-09-21 05:18:10 UTC		1	2025.33230	1500	-1125	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/show_bounds/geo2	geo	tox	tox/T3D_1_12/T3D_operators/advect/show_bounds/geo2.tox	2026-09-21 05:18:10 UTC		1	2025.33230	1520	-790	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/show_bounds/geo1	geo	tox	tox/T3D_1_12/T3D_operators/advect/show_bounds/geo1.tox	2026-09-21 05:18:10 UTC		1	2025.33230	1520	-490	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/show_bounds/axes/geo5/geo1	geo	tox	tox/T3D_1_12/T3D_operators/advect/show_bounds/axes/geo5/geo1.tox	2026-09-21 05:18:10 UTC		1	2025.33230	270	-40	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/show_bounds/axes/geo5	geo	tox	tox/T3D_1_12/T3D_operators/advect/show_bounds/axes/geo5.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-5	-90	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/show_bounds/axes/geo4/geo1	geo	tox	tox/T3D_1_12/T3D_operators/advect/show_bounds/axes/geo4/geo1.tox	2026-09-21 05:18:10 UTC		1	2025.33230	270	-40	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/show_bounds/axes/geo4	geo	tox	tox/T3D_1_12/T3D_operators/advect/show_bounds/axes/geo4.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-5	-265	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/show_bounds/axes/geo3/geo1	geo	tox	tox/T3D_1_12/T3D_operators/advect/show_bounds/axes/geo3/geo1.tox	2026-09-21 05:18:10 UTC		1	2025.33230	270	-40	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/show_bounds/axes/geo3	geo	tox	tox/T3D_1_12/T3D_operators/advect/show_bounds/axes/geo3.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-5	60	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/show_bounds/axes	geo	tox	tox/T3D_1_12/T3D_operators/advect/show_bounds/axes.tox	2026-09-21 05:18:10 UTC		1	2025.33230	1520	-340	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/show_bounds	container	tox	tox/T3D_1_12/T3D_operators/advect/show_bounds.tox	2026-09-21 05:18:10 UTC		1	2025.33230	20	60	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/glsl2_compute	text	glsl	tox/T3D_1_12/T3D_operators/advect/glsl2_compute.glsl	2026-09-21 05:18:10 UTC				-200	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/glsl1_compute	text	glsl	tox/T3D_1_12/T3D_operators/advect/glsl1_compute.glsl	2026-09-21 05:18:10 UTC				-175	-570	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/TransformExt	text	py	tox/T3D_1_12/T3D_operators/advect/TransformExt.py	2026-09-21 05:18:10 UTC				-425	100	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/advect/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:10 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/advect/T3D_utils/bypass_execute.py	2026-09-21 05:18:10 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/advect/T3D_utils/T3DExt.py	2026-09-21 05:18:10 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/advect/T3D_utils.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/advect	base	tox	tox/T3D_1_12/T3D_operators/advect.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-200	4150	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/add/transform	null	tox	tox/T3D_1_12/T3D_operators/add/transform.tox	2026-09-21 05:18:10 UTC		1	2025.33230	564	113	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/add/prefit	text	glsl	tox/T3D_1_12/T3D_operators/add/prefit.glsl	2026-09-21 05:18:10 UTC				385	-245	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/add/glsl1_compute2	text	glsl	tox/T3D_1_12/T3D_operators/add/glsl1_compute2.glsl	2026-09-21 05:18:10 UTC				-65	-220	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/add/glsl1_compute1	text	glsl	tox/T3D_1_12/T3D_operators/add/glsl1_compute1.glsl	2026-09-21 05:18:10 UTC				560	-245	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/add/T3D_utils/keyboardin1_callbacks	text	py	tox/T3D_1_12/T3D_operators/add/T3D_utils/keyboardin1_callbacks.py	2026-09-21 05:18:10 UTC				0	-250	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/add/T3D_utils/bypass_execute	parexec	py	tox/T3D_1_12/T3D_operators/add/T3D_utils/bypass_execute.py	2026-09-21 05:18:10 UTC				0	-25	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/add/T3D_utils/T3DExt	text	py	tox/T3D_1_12/T3D_operators/add/T3D_utils/T3DExt.py	2026-09-21 05:18:10 UTC				0	-225	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/add/T3D_utils	base	tox	tox/T3D_1_12/T3D_operators/add/T3D_utils.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-550	-450	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/add	base	tox	tox/T3D_1_12/T3D_operators/add.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-1950	4350	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators/SDF1	text	glsl	tox/T3D_1_12/T3D_operators/SDF1.glsl	2026-09-21 05:18:10 UTC				-1485	5095	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_operators	base	tox	tox/T3D_1_12/T3D_operators.tox	2026-09-21 05:18:10 UTC		1	2025.33230	-230	-112	0.4500,0.2400,0.2400
+/T3D_1_12/T3D_callback	text	py	tox/T3D_1_12/T3D_callback.py	2026-09-21 05:18:11 UTC				-240	-95	0.4500,0.2400,0.2400
+/T3D_1_12/T3DExt	text	py	tox/T3D_1_12/T3DExt.py	2026-09-21 05:18:11 UTC				-240	430	0.4500,0.2400,0.2400
+/Master_Point	base	tox	tox/Master_Point.tox	2026-09-21 05:18:11 UTC		1	2025.33230	-1350	54	0.3250,0.8000,0.3000
+/MAIN_VX	container	tox	tox/MAIN_VX.tox	2026-09-21 05:18:11 UTC		1	2025.33230	1150	675	0.3250,0.8000,0.3000
+/MAIN_Las_VX	container	tox	tox/MAIN_Las_VX.tox	2026-09-21 05:18:11 UTC		1	2025.33230	1150	225	0.3250,0.8000,0.3000
+/Laser_Sizer	base	tox	tox/Laser_Sizer.tox	2026-09-21 05:18:11 UTC		1	2025.33230	-1350	229	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/vc_data	table	tsv	tox/FunctionStore_tools_2026/vc_data.tsv	2026-09-21 05:18:11 UTC				50	25	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/tweener_exceptions	text	py	tox/FunctionStore_tools_2026/tweener/tweener_exceptions.py	2026-09-21 05:18:11 UTC				-500	100	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/text1	text	py	tox/FunctionStore_tools_2026/tweener/text1.py	2026-09-21 05:18:11 UTC				500	150	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/parexec1	parexec	py	tox/FunctionStore_tools_2026/tweener/parexec1.py	2026-09-21 05:18:11 UTC				100	100	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/help	text	py	tox/FunctionStore_tools_2026/tweener/help.py	2026-09-21 05:18:11 UTC				1000	1000	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/gotowebsite	parexec	py	tox/FunctionStore_tools_2026/tweener/gotowebsite.py	2026-09-21 05:18:11 UTC				1000	1000	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/fade	text	py	tox/FunctionStore_tools_2026/tweener/fade.py	2026-09-21 05:18:11 UTC				-350	100	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/extTweener	text	py	tox/FunctionStore_tools_2026/tweener/extTweener.py	2026-09-21 05:18:11 UTC				-200	100	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/execute1	execute	py	tox/FunctionStore_tools_2026/tweener/execute1.py	2026-09-21 05:18:11 UTC				-50	100	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/curves/extCurve	text	py	tox/FunctionStore_tools_2026/tweener/curves/extCurve.py	2026-09-21 05:18:11 UTC				100	1450	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/curves/ease/easing_functions	text	py	tox/FunctionStore_tools_2026/tweener/curves/ease/easing_functions.py	2026-09-21 05:18:11 UTC				400	325	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/curves/ease	base	tox	tox/FunctionStore_tools_2026/tweener/curves/ease.tox	2026-09-21 05:18:11 UTC		1	2025.33230	-250	1250	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/tweener/curves	base	tox	tox/FunctionStore_tools_2026/tweener/curves.tox	2026-09-21 05:18:11 UTC		1	2025.33230	-225	250	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/tweener/callbackManager/parexec1	parexec	py	tox/FunctionStore_tools_2026/tweener/callbackManager/parexec1.py	2026-09-21 05:18:11 UTC				-200	150	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/callbackManager/opexec1	opexec	py	tox/FunctionStore_tools_2026/tweener/callbackManager/opexec1.py	2026-09-21 05:18:11 UTC				-50	-25	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/callbackManager/load_callbacks	parexec	py	tox/FunctionStore_tools_2026/tweener/callbackManager/load_callbacks.py	2026-09-21 05:18:11 UTC				-350	150	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/callbackManager/help	text	py	tox/FunctionStore_tools_2026/tweener/callbackManager/help.py	2026-09-21 05:18:11 UTC				1000	1000	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/callbackManager/gotowebsite	parexec	py	tox/FunctionStore_tools_2026/tweener/callbackManager/gotowebsite.py	2026-09-21 05:18:11 UTC				1000	1000	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/callbackManager/extCallbackManager	text	py	tox/FunctionStore_tools_2026/tweener/callbackManager/extCallbackManager.py	2026-09-21 05:18:11 UTC				-500	-25	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/callbackManager/default_callbacks	text	py	tox/FunctionStore_tools_2026/tweener/callbackManager/default_callbacks.py	2026-09-21 05:18:11 UTC				-200	-25	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/callbackManager/create_callbacks	parexec	py	tox/FunctionStore_tools_2026/tweener/callbackManager/create_callbacks.py	2026-09-21 05:18:11 UTC				-500	150	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/callbackManager/allReleaseNotes	text	py	tox/FunctionStore_tools_2026/tweener/callbackManager/allReleaseNotes.py	2026-09-21 05:18:11 UTC				1000	1000	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener/allReleaseNotes	text	py	tox/FunctionStore_tools_2026/tweener/allReleaseNotes.py	2026-09-21 05:18:11 UTC				1000	1000	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/tweener	base	tox	tox/FunctionStore_tools_2026/tweener.tox	2026-09-21 05:18:11 UTC		1	2025.33230	650	-2800	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/tools_ui	container	tox	tox/FunctionStore_tools_2026/tools_ui.tox	2026-09-21 05:18:11 UTC		1	2025.33230	-250	-2850	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/text_purge	text	py	tox/FunctionStore_tools_2026/text_purge.py	2026-09-21 05:18:11 UTC				-950	-100	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/text2	text	py	tox/FunctionStore_tools_2026/text2.py	2026-09-21 05:18:11 UTC				-800	-200	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/text1	text	py	tox/FunctionStore_tools_2026/text1.py	2026-09-21 05:18:11 UTC				-950	-200	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/pre_release	text	py	tox/FunctionStore_tools_2026/pre_release.py	2026-09-21 05:18:11 UTC				-800	-100	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/paste_from_clipboard/resolutionData	table	tsv	tox/FunctionStore_tools_2026/paste_from_clipboard/resolutionData.tsv	2026-09-21 05:18:11 UTC				-125	75	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/paste_from_clipboard/mouseData	table	tsv	tox/FunctionStore_tools_2026/paste_from_clipboard/mouseData.tsv	2026-09-21 05:18:11 UTC				-275	-25	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/paste_from_clipboard/cameraData	table	tsv	tox/FunctionStore_tools_2026/paste_from_clipboard/cameraData.tsv	2026-09-21 05:18:11 UTC				-275	75	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/paste_from_clipboard/Logger/logs	table	tsv	tox/FunctionStore_tools_2026/paste_from_clipboard/Logger/logs.tsv	2026-09-21 05:18:11 UTC				-252	-75	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/paste_from_clipboard	base	tox	tox/FunctionStore_tools_2026/paste_from_clipboard.tox	2026-09-21 05:18:11 UTC		1	2025.33230	575	-1875	0.2000,0.2000,0.2000
+/FunctionStore_tools_2026/parexec2	parexec	py	tox/FunctionStore_tools_2026/parexec2.py	2026-09-21 05:18:12 UTC				410	-3320	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/parexec1	parexec	py	tox/FunctionStore_tools_2026/parexec1.py	2026-09-21 05:18:12 UTC				450	-100	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/oscMapper	container	tox	tox/FunctionStore_tools_2026/oscMapper.tox	2026-09-21 05:18:12 UTC		1	2025.33230	500	-3025	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/openOp1/readme	text	py	tox/FunctionStore_tools_2026/openOp1/readme.py	2026-09-21 05:18:12 UTC				-6390	1680	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/openOp1/parexec1	parexec	py	tox/FunctionStore_tools_2026/openOp1/parexec1.py	2026-09-21 05:18:12 UTC				-6400	1500	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/openOp1/openOp1/readme	text	py	tox/FunctionStore_tools_2026/openOp1/openOp1/readme.py	2026-09-21 05:18:12 UTC				-6390	1680	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/openOp1/openOp1/parexec1	parexec	py	tox/FunctionStore_tools_2026/openOp1/openOp1/parexec1.py	2026-09-21 05:18:12 UTC				-6400	1500	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/openOp1/openOp1	base	tox	tox/FunctionStore_tools_2026/openOp1/openOp1.tox	2026-09-21 05:18:12 UTC		1	2025.33230	-6405	1860	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/openOp1	base	tox	tox/FunctionStore_tools_2026/openOp1.tox	2026-09-21 05:18:12 UTC		1	2025.33230	-925	-3350	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/op_store_mod/store_table	table	tsv	tox/FunctionStore_tools_2026/op_store_mod/store_table.tsv	2026-09-21 05:18:12 UTC				-200	-50	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/op_store_mod	container	tox	tox/FunctionStore_tools_2026/op_store_mod.tox	2026-09-21 05:18:13 UTC		1	2025.33230	0	-3175	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/midiMapper	container	tox	tox/FunctionStore_tools_2026/midiMapper.tox	2026-09-21 05:18:14 UTC		1	2025.33230	300	-3025	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/mapTables/oscMapper_Mappingtable	table	tsv	tox/FunctionStore_tools_2026/mapTables/oscMapper_Mappingtable.tsv	2026-09-21 05:18:14 UTC				150	25	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/mapTables/midiMapper_Mappingtable	table	tsv	tox/FunctionStore_tools_2026/mapTables/midiMapper_Mappingtable.tsv	2026-09-21 05:18:14 UTC				-25	25	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/mapTables/ExternalTables	base	tox	tox/FunctionStore_tools_2026/mapTables/ExternalTables.tox	2026-09-21 05:18:14 UTC		1	2025.33230	50	-225	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/mapTables	base	tox	tox/FunctionStore_tools_2026/mapTables.tox	2026-09-21 05:18:14 UTC		1	2025.33230	400	-3175	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/iopPromoter	base	tox	tox/FunctionStore_tools_2026/iopPromoter.tox	2026-09-21 05:18:14 UTC		1	2025.33230	-755	-1515	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/execute_set_tables	execute	py	tox/FunctionStore_tools_2026/execute_set_tables.py	2026-09-21 05:18:14 UTC				600	-3150	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/execute1	execute	py	tox/FunctionStore_tools_2026/execute1.py	2026-09-21 05:18:14 UTC				450	-225	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/VSCodeTools	container	tox	tox/FunctionStore_tools_2026/VSCodeTools.tox	2026-09-21 05:19:10 UTC		2	2025.33230	32	-1330	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/UPDATER	base	tox	tox/FunctionStore_tools_2026/UPDATER.tox	2026-09-21 05:18:18 UTC		1	2025.33230	75	-375	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/TD_SearchPalette/script/parexec3	parexec	py	tox/FunctionStore_tools_2026/TD_SearchPalette/script/parexec3.py	2026-09-21 05:18:18 UTC				25	-500	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/script/parexec2	parexec	py	tox/FunctionStore_tools_2026/TD_SearchPalette/script/parexec2.py	2026-09-21 05:18:18 UTC				25	-375	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/script/parexec1	parexec	py	tox/FunctionStore_tools_2026/TD_SearchPalette/script/parexec1.py	2026-09-21 05:18:18 UTC				25	-250	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/script/install	text	py	tox/FunctionStore_tools_2026/TD_SearchPalette/script/install.py	2026-09-21 05:18:18 UTC				25	25	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/script/execute1	execute	py	tox/FunctionStore_tools_2026/TD_SearchPalette/script/execute1.py	2026-09-21 05:18:18 UTC				25	-100	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/script	base	tox	tox/FunctionStore_tools_2026/TD_SearchPalette/script.tox	2026-09-21 05:18:18 UTC		1	2025.33230	-200	600	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/TD_SearchPalette/iconGen	base	tox	tox/FunctionStore_tools_2026/TD_SearchPalette/iconGen.tox	2026-09-21 05:18:18 UTC		1	2025.33230	-425	800	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/TD_SearchPalette/help	text	py	tox/FunctionStore_tools_2026/TD_SearchPalette/help.py	2026-09-21 05:18:18 UTC				-200	400	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/field1/string	table	tsv	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/field1/string.tsv	2026-09-21 05:18:18 UTC				200	300	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/field1/help	text	py	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/field1/help.py	2026-09-21 05:18:18 UTC				25	425	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/field1/datexec1	datexec	py	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/field1/datexec1.py	2026-09-21 05:18:18 UTC				25	300	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/field1/color	table	tsv	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/field1/color.tsv	2026-09-21 05:18:18 UTC				200	425	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/field1/chopexec1	chopexec	py	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/field1/chopexec1.py	2026-09-21 05:18:18 UTC				25	-125	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/field1	field	tox	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/field1.tox	2026-09-21 05:18:18 UTC		1	2025.33230	-50	-350	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/execute1	execute	py	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/execute1.py	2026-09-21 05:18:18 UTC				-50	-700	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/button2/help	text	py	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/button2/help.py	2026-09-21 05:18:18 UTC				0	250	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/button2/color	table	tsv	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/button2/color.tsv	2026-09-21 05:18:18 UTC				290	360	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/button2	button	tox	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/button2.tox	2026-09-21 05:18:18 UTC		1	2025.33230	150	-525	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/button1/help	text	py	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/button1/help.py	2026-09-21 05:18:18 UTC				100	300	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/button1/color	table	tsv	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/button1/color.tsv	2026-09-21 05:18:18 UTC				290	360	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/button1/chopexec1	chopexec	py	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/button1/chopexec1.py	2026-09-21 05:18:18 UTC				300	-125	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/button1	button	tox	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/button1.tox	2026-09-21 05:18:18 UTC		1	2025.33230	-50	-525	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/CRATE	text	py	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette/CRATE.py	2026-09-21 05:18:18 UTC				-50	-825	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette	container	tox	tox/FunctionStore_tools_2026/TD_SearchPalette/SearchPalette.tox	2026-09-21 05:18:18 UTC		1	2025.33230	50	850	0.3250,0.8000,0.3000
+/FunctionStore_tools_2026/TD_SearchPalette/Help/table1	table	tsv	tox/FunctionStore_tools_2026/TD_SearchPalette/Help/table1.tsv	2026-09-21 05:18:18 UTC				0	25	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/Help/parexec2	parexec	py	tox/FunctionStore_tools_2026/TD_SearchPalette/Help/parexec2.py	2026-09-21 05:18:18 UTC				0	-225	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/Help/parexec1	parexec	py	tox/FunctionStore_tools_2026/TD_SearchPalette/Help/parexec1.py	2026-09-21 05:18:18 UTC				0	150	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/Help/execute1	execute	py	tox/FunctionStore_tools_2026/TD_SearchPalette/Help/execute1.py	2026-09-21 05:18:18 UTC				0	275	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/Help/copyVersion	text	py	tox/FunctionStore_tools_2026/TD_SearchPalette/Help/copyVersion.py	2026-09-21 05:18:18 UTC				150	150	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/Help/Version	table	tsv	tox/FunctionStore_tools_2026/TD_SearchPalette/Help/Version.tsv	2026-09-21 05:18:18 UTC				325	25	0.9000,0.3000,0.4000
+/FunctionStore_tools_2026/TD_SearchPalette/Help/HelpPages	table	tsv	tox/FunctionStore_tools_2026/TD_SearchPalette/Help/HelpPages.tsv	2026-09-21 05:18:18 UTC				0	-100	0.9000,0.3000,0.4000
